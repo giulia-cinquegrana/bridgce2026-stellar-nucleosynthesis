@@ -28,4 +28,4 @@
 
 2020 
 
-![](.kobayashi_periodictable.png)
+![](../.kobayashi_periodictable.png)
