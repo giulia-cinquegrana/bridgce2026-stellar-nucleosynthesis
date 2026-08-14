@@ -38,7 +38,7 @@
 | 1954                                       | **Hoyle**                                      | Predicted the carbon-12 resonance.                                 | ref       |
 | 1957                                       | **M. Burbidge, G. Burbidge, Fowler, Hoyle**    | Identified the s-, r-, and p-processes.                            | ref       |
 | 1957                                       | **Cameron**                                    | Independently developed theory of nucleosynthesis.                 | ref       |
-| 1968                                       | **Bodansky, Clayton, Fowler**                  | Fe-group abundances linked to radioactive decay of 56Ni.           | ref       |
+| 1968                                       | **Bodansky, Clayton, Fowler**                  | Linked Fe-group abundances to radioactive decay of 56Ni.           | ref       |
 | *Stellar Yields & Nucleosynthesis Sites*   |                                                |                                                                    | ref       |
 | 1973                                       | **Whelan & Iben**                              | Proposed Type Ia SNe as thermonuclear explosions of white dwarfs.  | ref       |
 | 1975                                       | **Iben**                                       | Identified thermal pulses and third dredge-up in AGB stars.        | ref       |
@@ -52,6 +52,9 @@
 | 2000                                       | **Herwig**                                     | Convective overshoot to model \(^{13}\)C pocket formation.         | ref |
 | 2009, 2020+                                | **Marigo, Aringer**                            | AESOPUS opacities; enhanced CNO abundances in AGB stars.           | ref |
 | 2011                                       | **Paxton, Bildstein, Timmes + MESA dev team**  | First completely open source stellar evolution code.               | ref |
+| 2012                                       | **Izzard et al.**                              | Binary population yields using scaled single-star stellar models.  | ref |
+| 2013                                       | **De Donder & Vanbeveren**                     | Modelled contribution of binary evolution to GCE.	               | ref |
+| 2022                                       | **Fragos et al. / POSYDON collaboration**      | Binary population synthesis based on interacting stellar models.   | ref |
 | *Galactic Chemical Evolution*              |                                                |                                                                    |           |
 | 1959                                       | **Schmidt**                                    | Proposed power-law relation between SFR and gas density.           | ref |
 | 1980                                       | **Tinsley**                                    | Stellar populations linked to galactic chemical enrichment.        | ref |
