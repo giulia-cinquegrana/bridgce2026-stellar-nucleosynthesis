@@ -26,8 +26,19 @@
     -
 
 ***Overview of all nucleosynthesis (very briefly)***
-### Yields and how they're calculated
-### Specialization topic. last year was explosive nucleosynthesis. this year we focus on agb nucleosynthesis. light elements, s process, i process. 
+
+- Description. 
+- Slides: X. 
+
+***Yields and how they're calculated***
+
+- Description. 
+- Slides: X. 
+
+***Specialization topic. last year was explosive nucleosynthesis. this year we focus on agb nucleosynthesis. light elements, s process, i process***
+
+- Description. 
+- Slides: X. 
 
 ## Lab
 
