@@ -21,17 +21,17 @@
   - **For stellar people:** understand how the physics you're modelling feeds into observable stellar populations and chemical evolution.
   - **For everyone:** understand where the uncertainties in stellar yields actually come from.
 
-#### Overview of all nucleosynthesis (very briefly)
+### Overview of all nucleosynthesis (very briefly)
 
 - Description. 
 - Slides: X. 
 
-#### Yields: what they are and how they're calculated
+### Yields: what they are and how they're calculated
 
 - Description. 
 - Slides: X. 
 
-#### Specialization topic. last year was explosive nucleosynthesis. this year we focus on agb nucleosynthesis. light elements, s process, i process
+### Specialization topic. last year was explosive nucleosynthesis. this year we focus on agb nucleosynthesis. light elements, s process, i process
 
 - Description. 
 - Slides: X. 
