@@ -46,17 +46,3 @@
 - if your eyes hurt, also have a printed version that you can draw and annotate. 
 
 - python. something to do with agb nucleosynthesis. 
-
-## Structure
-
-# 1st hour
-
-## lecture - nucleosynthesis 101: who makes what?
-
-## lab
-
-## (smaller) lecture - yield calculations
-
-# 2nd hour
-
-## lecture = 
