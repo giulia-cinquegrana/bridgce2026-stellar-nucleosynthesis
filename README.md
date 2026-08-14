@@ -23,10 +23,7 @@
 
 ## Lecture
 
-- **Context: where are we?**
-  - We've just looked at the nuclear physics: reaction rates, nuclear masses, decay, and the experimental constraints on the reactions that make the elements.
-  - Now we put that physics into stars: how stellar structure and evolution determine **which reactions occur, where they occur, and what gets ejected**.
-  - Tomorrow we'll take those stellar yields and ask what happens when we put many stars together: stellar populations and, ultimately, galactic chemical evolution.
+- **Context: where are we?** We've just looked at the nuclear physics: reaction rates, nuclear masses, decay, and the experimental constraints on the reactions that make the elements. Now we put that physics into stars: how stellar structure and evolution determine **which reactions occur, where they occur, and what gets ejected**. Tomorrow we'll take those stellar yields and ask what happens when we put many stars together: stellar populations and, ultimately, galactic chemical evolution.
 
 - **Why should you care?**
   - **For galaxy/population people:** understand the assumptions behind your star particles, and when stellar physics becomes the bottleneck.
