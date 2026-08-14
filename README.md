@@ -2,8 +2,6 @@
 
 # *Stellar Nucleosynthesis* lecture & lab materials 
 
----
-
 ## *(Optional)* Pre-reading
 
 - **`history.md`**
