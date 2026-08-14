@@ -2,7 +2,7 @@
 
 # *Stellar Nucleosynthesis* lecture & lab materials 
 
-## Resources & *optional* pre-reading
+## Resources & optional pre-reading
 
 - **`history.md`**
   - Some big moments and cool papers in stellar physics, nucleosynthesis, and the periodic table.
