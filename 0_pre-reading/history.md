@@ -1,15 +1,15 @@
 # From Atoms to the Elements: Milestones in Nucleosynthesis and Chemical Evolution
 
-*This is not a comprehensive list, but highlights key milestones in our understanding of how the elements are formed and distributed throughout the Universe.*
-
 ### Astronomical Periodic Tables
 
-Two useful visual summaries of the origins of the elements are:
+Useful visual summaries of the origins of the elements:
 
 - **Kobayashi, Karakas & Lugaro (2020):** [Galactic chemical evolution](https://astro3d.org.au/wp-content/uploads/2024/08/Periodic-Table-Poster-Front-Colour-Blind-version.pdf)
 - **Johnson, Fields & Thompson (2020):** [Origin of the solar system elements](https://www.sciencealert.com/this-awesome-periodic-table-shows-the-origins-of-every-atom-in-your-body)
 
-The timeline below traces the development of this picture, from the concept of the atom and the discovery of nuclear structure through stellar nucleosynthesis, stellar yields, and modern observations of nucleosynthesis sites.
+### Timeline
+
+*This is not a comprehensive list, but some key milestones in our understanding of how the elements are formed and distributed throughout the Universe.*
 
 | Date                                       | Scientist / Event                              | Milestone                                                          | Reference |
 | -------------------------------------------| ---------------------------------------------- | -------------------------------------------------------------------| --------- |
