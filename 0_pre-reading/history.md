@@ -1,10 +1,21 @@
 # From Atoms to the Elements: Milestones in Nucleosynthesis and Chemical Evolution
 
+*This is not a comprehensive list, but highlights key milestones in our understanding of how the elements are formed and distributed throughout the Universe.*
+
+### Astronomical Periodic Tables
+
+Two useful visual summaries of the origins of the elements are:
+
+- **Kobayashi, Karakas & Lugaro (2020):** [Galactic chemical evolution](https://astro3d.org.au/wp-content/uploads/2024/08/Periodic-Table-Poster-Front-Colour-Blind-version.pdf)
+- **Johnson, Fields & Thompson (2020):** [Origin of the solar system elements](https://www.sciencealert.com/this-awesome-periodic-table-shows-the-origins-of-every-atom-in-your-body)
+
+The timeline below traces the development of this picture, from the concept of the atom and the discovery of nuclear structure through stellar nucleosynthesis, stellar yields, and modern observations of nucleosynthesis sites.
+
 | Date                                       | Scientist / Event                              | Milestone                                                          | Reference |
 | -------------------------------------------| ---------------------------------------------- | -------------------------------------------------------------------| --------- |
 | *Foundations of Atomic Matter*             |                                                |                                                                    |           |
 | 5th century BCE                            | **Leucippus and Democritus**                   | Proposed the concept of the atom in written form.                  | ref       |
-| 1789                                       | **Lavoisier**                                  | Published the *Table of Simple Substances*.                        | ref       |
+| 1789                                       | **Lavoisier**                                  | Published the [Table of Simple Substances](https://www.rsc.org/news/2019/january/finding-the-periodic-table).                        | ref       |
 | 1804                                       | **Dalton**                                     | Developed atomic theory.                                           | ref       |
 | 1829+                                      | **Döbereiner, Mendeleev, Myer, Newlands**      | Organised the periodic table by physical properties.               | ref       |
 | 1860                                       | **1st International Conference of Chemistry**  | Set the atomic mass of hydrogen to one.                            | ref       |
@@ -40,6 +51,7 @@
 | 1957                                       | **Cameron**                                    | Independently developed theory of nucleosynthesis.                 | ref       |
 | 1968                                       | **Bodansky, Clayton, Fowler**                  | Linked Fe-group abundances to radioactive decay of 56Ni.           | ref       |
 | *Stellar Yields & Nucleosynthesis Sites*   |                                                |                                                                    | ref       |
+| 1952                                       | **Merrill**                                    | Detected technetium in giant stars; evidence for in situ nucl.     | ref       |
 | 1973                                       | **Whelan & Iben**                              | Proposed Type Ia SNe as thermonuclear explosions of white dwarfs.  | ref       |
 | 1975                                       | **Iben**                                       | Identified thermal pulses and third dredge-up in AGB stars.        | ref       |
 | 1978                                       | **Iben & Truran**                              | AGB stars identified as a site of s-process nucleosynthesis.       | ref       |
@@ -64,11 +76,12 @@
 | 1995                                       | **Timmes, Woosley, and Weaver**                | Galactic chemical evolution: hydrogen through zinc.                | ref |
 | 2020                                       | **Kobayashi, Karakas & Lugaro**                | The Origin of Elements from Carbon to Uranium                      | ref |
 | *Multimessenger & Modern Nucleosynthesis*  |                                                |                                                                    |           |
-| **2015** | **Ji et al. / Reticulum II** | Identified an r-process-enhanced ultra-faint dwarf galaxy.                                           | ref       |
+| 2015 | **Ji et al. / Reticulum II** | Identified an r-process-enhanced ultra-faint dwarf galaxy.                                           | ref       |
 | **2017** | **GW170817**                 | Confirmed neutron-star mergers as a site of r-process nucleosynthesis.                               | ref       |
 | **2017** | **Kasen et al.**             | Linked the kilonova emission from GW170817 to r-process nucleosynthesis.                             | ref       |
 | **2019** | **i-process observations**   | Established observational evidence for the intermediate neutron-capture process in metal-poor stars. | ref       |
 | **2023** | **GRB 230307A / JWST**       | Detected tellurium and evidence for heavy-element nucleosynthesis in a compact-object merger.        | ref       |
+| XXX | XXXX       | AGB nucleosynthesis yields. nugrid, monash, cseh work. go through lit review you did of ch and ba stars. may as well use.   | ref       |
 
 
-https://astro3d.org.au/wp-content/uploads/2024/08/Periodic-Table-Poster-Front-Colour-Blind-version.pdf
+
