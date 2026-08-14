@@ -1,6 +1,8 @@
 ![](.bridgce.png)
 
-*Lecture and lab materials for the **Stellar Nucleosynthesis** session at the [BRIDGCE 2026 School](https://sites.google.com/view/bridgce-herts-2026/the-school)*.
+# Lecture and lab materials 
+
+- For the **Stellar Nucleosynthesis** session of the [BRIDGCE 2026 School](https://sites.google.com/view/bridgce-herts-2026/the-school)
 
 ---
 
