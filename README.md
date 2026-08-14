@@ -38,6 +38,7 @@ So, **why should you care?**
 We'll first take a very brief tour of the major nucleosynthesis processes, from hydrogen burning in low- and intermediate-mass stars through the advanced burning stages and photodisintegration in massive stars, before moving to heavy-element production through neutron capture and photodisintegration. We'll then look at the major sites where these processes occur, distinguishing between hydrostatic nucleosynthesis in AGB and massive stars and explosive nucleosynthesis in core-collapse supernovae, thermonuclear supernovae, and compact-object mergers. There are many more specialised processes and sites that we won't cover here, but these are the key pieces needed for the rest of the lecture.
 
 - Slides: X. 
+- Notes: *.md file. 
 
 ### Yields: what they are and how they're calculated
 
