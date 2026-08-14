@@ -14,10 +14,9 @@
 
 ## Stellar evolution and nucleosynthesis textbooks and lecture notes
 
-- onno pols. 
-- woosley has a lot of massive star resources. 
-- kippenhahn
+- Onno Pols' lecture notes: https://www.astro.ru.nl/~onnop/education/stev_utrecht_notes/
+- Kippenhahn, R., Weigert, A. and Weiss, A., 1990. *Stellar structure and evolution* (Vol. 192). Berlin: Springer-verlag.
 
 ## Nuclear astrophysics textbooks
 
-- Krane nuclear physics. 
+- Krane, K.S., 1991. *Introductory nuclear physics*. John Wiley & Sons.
