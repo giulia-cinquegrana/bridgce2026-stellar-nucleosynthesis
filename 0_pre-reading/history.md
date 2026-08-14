@@ -2,11 +2,11 @@
 
 ## Foundations of Atomic Matter
 
-5th Century BCE
-1789
-1804
-1829+
-1860
+5th Century BCE | **Leucippus and Democritus** | Concept of an atom (in written form) | ref
+1789 | **Lavoisier** | The Table of Simple Substances | ref
+1804 | **Dalton** | Atomic theory | ref
+1829+ | **Döbereiner, Mendeleev, Myer, Newlands** | Periodic table is first organised by physical features | ref
+1860 |  **1st International Conference of Chemistry** (Karlsruhe, Germany) | The atomic mass of hydrogen is one
 
 ## Nuclear Structure & Energy
 
