@@ -32,7 +32,6 @@
 | 1939                                      | **Meitner, Frisch**                                                | Discovery of nuclear fission.                                    | ref       |
 | 1948                                      | **Alpher, Bethe, Gamow**                                           | The formation of the lightest elements in big bang nucleosynthesis.                          | ref       |
 | 1949                                      | **Mayer, Haxel, Jensen Suess**                                     | Nuclear shell model and magic numbers.                           | ref       |
-
 | *Formal Nucleosynthesis Theory* | | | |
 |---|---|---|---|
 | **1952** | **Salpeter** | | ref |
@@ -40,7 +39,6 @@
 | **1957** | **(M.) Burbidge, (G.) Burbidge, Fowler, Hoyle (B2FH)** | Identification of s-, r-, and p-process nucleosynthesis. | ref |
 | **1957** | **Cameron** | | ref |
 | **1968** | **Bodansky, Clayton, Fowler** | Fe-group abundances linked to radioactive decay of 56Ni. | ref |
-
 | *Stellar Yields & Nucleosynthesis Sites* | | | |
 |---|---|---|---|
 | **1973** | **Whelan & Iben** | | ref |
@@ -56,7 +54,6 @@
 | **2000** | **Herwig** | Convective overshoot used to model the formation of the \(^{13}\)C pocket and third dredge-up | ref |
 | **2009** | **Marigo** | Enhanced opacities in AGB codes | ref |
 | **2011** | **Paxton, Bildstein, Timmes + MESA development team** | First open source stellar evolution code | ref |
-
 | *Galactic Chemical Evolution* | | | |
 |---|---|---|---|
 | **1959** | **Schmidt** | Star-formation law | ref |
@@ -71,6 +68,3 @@
 
 
 https://astro3d.org.au/wp-content/uploads/2024/08/Periodic-Table-Poster-Front-Colour-Blind-version.pdf
-
-![](../.kobayashi_periodictable.png)
-
