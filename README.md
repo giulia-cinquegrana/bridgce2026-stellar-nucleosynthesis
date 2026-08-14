@@ -4,7 +4,7 @@
 
 ---
 
-## 0_pre-reading
+## Pre-reading
 
 *Not part of the lecture, but for the keen reader.*
 
@@ -12,8 +12,6 @@
   - Some big moments and cool papers in stellar physics, nucleosynthesis, and the periodic table.
 - **`useful_stellar_resources.md`**
   - A compilation of useful papers on topics we'll cover. Please suggest your own if they're not on the list.
-
-## Lecture
 
 ## Lecture
 
