@@ -4,9 +4,7 @@
 
 ---
 
-## Pre-reading
-
-*Not part of the lecture, but for the keen reader.*
+## *(Optional)* Pre-reading
 
 - **`history.md`**
   - Some big moments and cool papers in stellar physics, nucleosynthesis, and the periodic table.
