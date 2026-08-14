@@ -1,12 +1,15 @@
-# Milestones in our understanding of stellar nucleosynthesis and chemical evolution
+# Milestones in Our Understanding of Stellar Nucleosynthesis and Chemical Evolution
 
 ## Foundations of Atomic Matter
 
-5th Century BCE | **Leucippus and Democritus** | Concept of an atom (in written form) | ref
-1789 | **Lavoisier** | The Table of Simple Substances | ref
-1804 | **Dalton** | Atomic theory | ref
-1829+ | **Döbereiner, Mendeleev, Myer, Newlands** | Periodic table is first organised by physical features | ref
-1860 |  **1st International Conference of Chemistry** (Karlsruhe, Germany) | The atomic mass of hydrogen is one
+| Date                | Scientist / Event                                                 | Milestone                                                                                                                            | Reference |
+| ------------------- | ----------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ | --------- |
+| **5th century BCE** | **Leucippus & Democritus**                                        | Proposed the concept of the **atom** — indivisible particles as the fundamental constituents of matter.                              | ref       |
+| **1789**            | **Antoine Lavoisier**                                             | Published the *Table of Simple Substances*, establishing an early systematic classification of chemical elements.                    | ref       |
+| **1804**            | **John Dalton**                                                   | Developed the first modern **atomic theory**, proposing that matter consists of atoms with characteristic masses and properties.     | ref       |
+| **1829–1860s**      | **Döbereiner, Newlands, Mendeleev & Meyer**                       | Development of increasingly systematic classifications of the elements, culminating in the **periodic table**.                       | ref       |
+| **1860**            | **1st International Conference of Chemistry**, Karlsruhe, Germany | Established greater agreement on **atomic weights and molecular formulas**, helping resolve competing atomic and molecular theories. | ref       |
+
 
 ## Nuclear Structure & Energy
 
