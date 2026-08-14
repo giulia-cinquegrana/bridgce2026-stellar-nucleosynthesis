@@ -1,14 +1,17 @@
 # From Atoms to the Elements: Milestones in Nucleosynthesis and Chemical Evolution
 
+Absolutely — your **original Foundations wording**, with only the table formatting retained:
+
 ## Foundations of Atomic Matter
 
-| Date                | Scientist / Event                                                 | Milestone                                                                                                                            | Reference |
-| ------------------- | ----------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ | --------- |
-| **5th century BCE** | **Leucippus & Democritus**                                        | Proposed the concept of the **atom** — indivisible particles as the fundamental constituents of matter.                              | ref       |
-| **1789**            | **Antoine Lavoisier**                                             | Published the *Table of Simple Substances*, establishing an early systematic classification of chemical elements.                    | ref       |
-| **1804**            | **John Dalton**                                                   | Developed the first modern **atomic theory**, proposing that matter consists of atoms with characteristic masses and properties.     | ref       |
-| **1829–1860s**      | **Döbereiner, Newlands, Mendeleev & Meyer**                       | Development of increasingly systematic classifications of the elements, culminating in the **periodic table**.                       | ref       |
-| **1860**            | **1st International Conference of Chemistry**, Karlsruhe, Germany | Established greater agreement on **atomic weights and molecular formulas**, helping resolve competing atomic and molecular theories. | ref       |
+| Date                | Scientist / Event                                                  | Milestone                                              | Reference |
+| ------------------- | ------------------------------------------------------------------ | ------------------------------------------------------ | --------- |
+| **5th century BCE** | **Leucippus and Democritus**                                       | Concept of an atom (in written form)                   | ref       |
+| **1789**            | **Lavoisier**                                                      | The Table of Simple Substances                         | ref       |
+| **1804**            | **Dalton**                                                         | Atomic theory                                          | ref       |
+| **1829+**           | **Döbereiner, Mendeleev, Myer, Newlands**                          | Periodic table is first organised by physical features | ref       |
+| **1860**            | **1st International Conference of Chemistry** (Karlsruhe, Germany) | The atomic mass of hydrogen is one                     | ref       |
+
 
 Yep — keeping **your wording exactly as written**, just converting each section into the same table format.
 
@@ -65,10 +68,8 @@ Yep — keeping **your wording exactly as written**, just converting each sectio
 | **2017** | **GW170817**                    | Neutron star mergers confirmed as major r-process sites | ref       |
 | **2020** | **Kobayashi, Karakas & Lugaro** | The Origin of Elements from Carbon to Uranium           | ref       |
 
+
 https://astro3d.org.au/wp-content/uploads/2024/08/Periodic-Table-Poster-Front-Colour-Blind-version.pdf
 
 ![](../.kobayashi_periodictable.png)
 
-## facts I learnt putting this together
-
-- the curies have X noble prizes
