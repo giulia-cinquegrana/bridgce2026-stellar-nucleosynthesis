@@ -4,6 +4,8 @@
 
 ## Structure
 
+XXXXX introduce. 
+
 - **14:00–14:05** — Introduction & context
 - **14:05–14:20** — Lecture 1
 - **14:20–14:35** — Lab 1
@@ -14,12 +16,12 @@
 - **15:20–15:45** — Lab 2
 - **15:45–16:00** — Wrap-up & discussion
 
-## Resources & optional pre-reading
+## Optional pre-reading
 
-- **`history.md`**
+- **`Resources/history.md`**
   - Some big moments and cool papers in stellar physics, nucleosynthesis, and the periodic table.
-- **`useful_stellar_resources.md`**
-  - A compilation of useful papers on topics we'll cover. Please suggest your own if they're not on the list.
+- **`Resources/useful_stellar_resources.md`**
+  - A compilation of useful papers on topics we'll cover. Please suggest your own if they're not on the list!
 
 ## Lectures
 
