@@ -12,9 +12,6 @@ Absolutely — your **original Foundations wording**, with only the table format
 | **1829+**           | **Döbereiner, Mendeleev, Myer, Newlands**                          | Periodic table is first organised by physical features | ref       |
 | **1860**            | **1st International Conference of Chemistry** (Karlsruhe, Germany) | The atomic mass of hydrogen is one                     | ref       |
 
-
-Yep — keeping **your wording exactly as written**, just converting each section into the same table format.
-
 ## Nuclear Structure & Energy
 
 | Date     | Scientist / Event                     | Milestone                                                       | Reference |
