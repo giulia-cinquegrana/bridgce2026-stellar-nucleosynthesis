@@ -12,7 +12,7 @@
   - Some big moments and cool papers in stellar physics, nucleosynthesis, and the periodic table.
 - **`useful_stellar_resources.md`**
   - A compilation of useful papers on topics we'll cover. Please suggest your own if they're not on the list.
-  
+
 ## Lecture
 
 - context: where are we? 
@@ -25,10 +25,9 @@
     -
     -
 
-- what we're going to do. 
-    - cover all of nucleosynthesis (very briefly)
-    - talk about yields and how they're calculated
-    - last year was explosive nucleosynthesis. this year we focus on agb nucleosynthesis. light elements, s process, i process. 
+### Overview of all nucleosynthesis (very briefly)
+### Yields and how they're calculated
+### Specialization topic. last year was explosive nucleosynthesis. this year we focus on agb nucleosynthesis. light elements, s process, i process. 
 
 ## Lab
 
