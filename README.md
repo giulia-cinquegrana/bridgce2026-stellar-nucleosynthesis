@@ -21,8 +21,6 @@
 - **`useful_stellar_resources.md`**
   - A compilation of useful papers on topics we'll cover. Please suggest your own if they're not on the list.
 
----
-
 ## Lecture
 
 - **Context: where are we?**
@@ -50,8 +48,6 @@ We'll first take a very brief tour of the major nucleosynthesis processes, from 
 
 - Description. 
 - Slides: X. 
-
----
 
 ## Lab
 
