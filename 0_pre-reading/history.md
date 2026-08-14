@@ -1,7 +1,5 @@
 # From Atoms to the Elements: Milestones in Nucleosynthesis and Chemical Evolution
 
-Absolutely — your **original Foundations wording**, with only the table formatting retained:
-
 ## Foundations of Atomic Matter
 
 | Date                | Scientist / Event                                                  | Milestone                                              | Reference |
