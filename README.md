@@ -36,6 +36,8 @@
 - Description. 
 - Slides: X. 
 
+---
+
 ## Lab
 
 - python flashcards. quick coding activity, then identifying differences in major elemntal abundance pattern. i.e., agb vs supernovae. then they get harder with clues. e.g., both are sne/agb yields, but one is 1M vs 4M etc. 
