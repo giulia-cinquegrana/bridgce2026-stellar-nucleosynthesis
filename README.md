@@ -15,16 +15,18 @@
 
 ## Lecture
 
-- context: where are we? 
-    - we've just looked at nuclear physics
-    - now in stars where we see the nuclear physics in action
-    - then tomorrow we'll look at how stars behave in a population
+## Lecture
 
-- why should you care?
-    - for galaxy/populations people: understand the assumptions behind your star particles, and when the stellar physics is the bottleneck
-    -
-    -
+- **Context: where are we?**
+  - We've just looked at nuclear physics.
+  - Now we'll look at stars, where we see that nuclear physics in action.
+  - Tomorrow we'll look at how stars behave as populations.
 
+- **Why should you care?**
+  - **For galaxy/population people:** understand the assumptions behind your star particles, and when stellar physics becomes the bottleneck.
+  - **For stellar people:** understand how the physics you're modelling feeds into observable stellar populations and chemical evolution.
+  - **For everyone:** understand where the uncertainties in stellar yields actually come from.
+  
 ***Overview of all nucleosynthesis (very briefly)***
 
 - Description. 
