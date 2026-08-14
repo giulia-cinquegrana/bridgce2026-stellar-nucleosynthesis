@@ -76,12 +76,12 @@ Useful visual summaries of the origins of the elements:
 | 1995                                       | **Timmes, Woosley, and Weaver**                | Galactic chemical evolution: hydrogen through zinc.                | ref |
 | 2020                                       | **Kobayashi, Karakas & Lugaro**                | The Origin of Elements from Carbon to Uranium                      | ref |
 | *Multimessenger & Modern Nucleosynthesis*  |                                                |                                                                    |           |
-| 2015 | **Ji et al. / Reticulum II** | Identified an r-process-enhanced ultra-faint dwarf galaxy.                                           | ref       |
-| **2017** | **GW170817**                 | Confirmed neutron-star mergers as a site of r-process nucleosynthesis.                               | ref       |
-| **2017** | **Kasen et al.**             | Linked the kilonova emission from GW170817 to r-process nucleosynthesis.                             | ref       |
-| **2019** | **i-process observations**   | Established observational evidence for the intermediate neutron-capture process in metal-poor stars. | ref       |
-| **2023** | **GRB 230307A / JWST**       | Detected tellurium and evidence for heavy-element nucleosynthesis in a compact-object merger.        | ref       |
-| XXX | XXXX       | AGB nucleosynthesis yields. nugrid, monash, cseh work. go through lit review you did of ch and ba stars. may as well use.   | ref       |
+| 2015                                       | **Ji et al. / Reticulum II**                   | Identified an r-process-enhanced ultra-faint dwarf galaxy.         | ref       |
+| 2017                                       | **GW170817**                                   | Confirmed neutron-star mergers as a site of r-process nucleosynthesis.                               | ref       |
+| 2017                                       | **Kasen et al.**                               | Linked the kilonova emission from GW170817 to r-process nucleosynthesis.                             | ref       |
+| 2019                                       | **i-process observations**                     | Established observational evidence for the intermediate neutron-capture process in metal-poor stars. | ref       |
+| 2023                                       | **GRB 230307A / JWST**                         | Detected tellurium and evidence for heavy-element nucleosynthesis in a compact-object merger.        | ref       |
+| XXX                                        | XXXX                                           | AGB nucleosynthesis yields. nugrid, monash, cseh work. go through lit review you did of ch and ba stars. may as well use.   | ref       |
 
 
 
