@@ -7,6 +7,14 @@ Once LIMS finish central He burning, they contract but they don't typically have
 
 ## The thermal pulse cycle
 
+### TP
+
+### powerdown
+
+### TDU
+
+### powerdown
+
 ## Key AGB nucleosynthesis and mixing
 
 ### Shell burning
