@@ -192,17 +192,209 @@ with metallicity shifting the boundaries between these regimes.
 
 This is why there is no single nucleosynthetic signature for an AGB star. *Mass and metallicity determine which physical processes are available, how efficiently they operate, and whether their products ultimately reach the surface and are ejected.* And this gives us the framework for the rest of the lecture: rather than treating all AGB stars as one nucleosynthetic site, we can now move through the mass--metallicity plane and ask which processes dominate in each regime.
 
+## Metal-Rich AGB Stars: \(^{13}\mathrm{C}\) and \(^{22}\mathrm{Ne}\) Neutron Sources
 
+At approximately solar and super-solar metallicity, AGB nucleosynthesis follows the classical picture of two main neutron sources, with their relative importance determined primarily by stellar mass.
 
+### Low-mass AGB stars: the \(^{13}\mathrm{C}\) neutron source
 
+In low-mass AGB stars, the dominant neutron source is
 
-## Metal-Rich AGB Stars: 13C and 22Ne Neutron Sources
+$$
+^{13}\mathrm{C}(\alpha,n)^{16}\mathrm{O},
+$$
+
+which operates during the **interpulse phase** in the He-intershell.
+
+The \(^{13}\mathrm{C}\) is produced in a \(^{13}\mathrm{C}\)-rich pocket formed through partial proton mixing into the \(^{12}\mathrm{C}\)-rich intershell:
+
+$$
+^{12}\mathrm{C}(p,\gamma)^{13}\mathrm{N}
+\rightarrow
+^{13}\mathrm{C}.
+$$
+
+The relatively low neutron densities and long neutron exposure are characteristic of the classical **main s-process**. The resulting neutron captures progressively build nuclei beyond iron, with the final abundance distribution depending strongly on the neutron exposure and the initial abundance of seed nuclei.
+
+### Intermediate-mass AGB stars: the \(^{22}\mathrm{Ne}\) neutron source
+
+At higher initial masses, the He-shell reaches higher temperatures during thermal pulses, allowing the reaction
+
+$$
+^{22}\mathrm{Ne}(\alpha,n)^{25}\mathrm{Mg}
+$$
+
+to become an important neutron source.
+
+Unlike the \(^{13}\mathrm{C}\) source, the \(^{22}\mathrm{Ne}\) source operates **during the thermal pulse**, within the pulse-driven convective zone. It produces higher neutron densities but over shorter timescales, activating branching points in the s-process path that are less important for the \(^{13}\mathrm{C}\) source.
+
+The two neutron sources therefore probe different regions of the AGB:
+
+$$
+\boxed{
+^{13}\mathrm{C}(\alpha,n)^{16}\mathrm{O}
+\quad\text{interpulse}
+}
+\qquad
+\boxed{
+^{22}\mathrm{Ne}(\alpha,n)^{25}\mathrm{Mg}
+\quad\text{thermal pulse}
+}
+$$
+
+The \(^{22}\mathrm{Ne}\) source also produces \(^{25}\mathrm{Mg}\) and \(^{26}\mathrm{Mg}\) through competing \(\alpha\)-capture reactions.
+
+### The effect of metallicity
+
+Metallicity then determines how efficiently these neutron sources can build heavy nuclei.
+
+At lower metallicity, there are fewer Fe-peak seed nuclei available per neutron. The neutron-to-seed ratio therefore increases:
+
+$$
+\text{lower } Z
+\quad\rightarrow\quad
+\text{higher neutron/seed}
+\quad\rightarrow\quad
+\text{heavier s-process distribution}.
+$$
+
+Lower-metallicity models also tend to experience stronger thermal pulses and more efficient third dredge-up, allowing more of this material to reach the stellar surface.
+
+At high metallicity, the opposite trend occurs. Increasing metallicity suppresses third dredge-up and reduces the number of thermal pulses through stronger mass loss. At sufficiently high metallicity, the envelope can even be lost before significant thermal-pulse nucleosynthesis occurs.
+
+Thus, increasing metallicity does not simply change the initial composition of the star: it changes whether the star can efficiently produce, mix, and eject newly synthesised heavy elements.
+
+---
 
 ## Metal-poor Low and Intermediate Mass AGBs: From the s-Process to the i-Process
 
+As we move to lower metallicity, the classical s-process becomes increasingly efficient at producing heavy elements.
+
+Lower-metallicity AGB stars experience stronger thermal pulses and more efficient third dredge-up, while the reduced abundance of seed nuclei increases the neutron-to-seed ratio. This favours the production of heavy s-process elements and large surface enrichments in carbon.
+
+The picture becomes more interesting at **very low metallicity**, where the separation between the H- and He-burning regions can become important for the nucleosynthesis.
+
+### Primary carbon and nitrogen
+
+Third dredge-up brings freshly synthesised \(^{12}\mathrm{C}\) from the He-intershell into the envelope. Because this carbon was produced from helium burning rather than inherited from the initial metallicity, it is a **primary** product.
+
+At low metallicity, this newly produced carbon can subsequently be processed through the CNO cycle:
+
+$$
+^{12}\mathrm{C}
+\rightarrow
+^{14}\mathrm{N}.
+$$
+
+This provides a pathway to **primary nitrogen**:
+
+$$
+\boxed{
+\text{He burning}
+\rightarrow
+^{12}\mathrm{C}
+\rightarrow
+\text{H burning}
+\rightarrow
+^{14}\mathrm{N}
+}
+$$
+
+The AGB can therefore contribute primary C and N even when the star began with very little metal content.
+
+### Proton ingestion and the i-process
+
+At sufficiently low metallicity, mixing between the H-rich envelope and the He-burning region can lead to **proton-ingestion events**.
+
+Protons mixed into the \(^{12}\mathrm{C}\)-rich He-burning material can produce \(^{13}\mathrm{C}:
+
+$$
+^{12}\mathrm{C}(p,\gamma)^{13}\mathrm{N}
+\rightarrow
+^{13}\mathrm{C},
+$$
+
+which can subsequently undergo
+
+$$
+^{13}\mathrm{C}(\alpha,n)^{16}\mathrm{O}.
+$$
+
+If this occurs while the He-burning region is convective, the resulting neutron production can reach densities substantially higher than those characteristic of the classical s-process.
+
+This opens the **intermediate neutron-capture process**, or **i-process** regime:
+
+$$
+n_{\mathrm{s}}
+<
+n_{\mathrm{i}}
+<
+n_{\mathrm{r}}.
+$$
+
+The higher neutron densities move the neutron-capture path further from the valley of stability and activate branching points that are not accessible under classical s-process conditions.
+
+The important point is that decreasing metallicity does not simply produce *more* of the same s-process nucleosynthesis. At sufficiently low metallicity, the stellar structure can change enough to introduce **new nucleosynthetic pathways**.
+
+---
+
 ## Metal-free Low and Intermediate Mass AGBs: The First AGB Stars
 
+At the extreme limit of the metallicity axis are the first, metal-free stars.
+
+These stars begin with essentially no CNO nuclei. Their early hydrogen burning therefore cannot initially rely on the CNO cycle and instead proceeds primarily through the pp chains.
+
+The situation changes once helium burning begins.
+
+### Producing the first CNO nuclei
+
+The triple-\(\alpha\) reaction produces the first significant carbon:
+
+$$
+3\,^4\mathrm{He}
+\rightarrow
+^{12}\mathrm{C}.
+$$
+
+This carbon can then be transported into regions where hydrogen burning occurs and converted through the CNO cycle into \(^{14}\mathrm{N}.
+
+The star therefore begins to **manufacture its own CNO catalysts**:
+
+$$
+\boxed{
+\text{He burning}
+\rightarrow
+^{12}\mathrm{C}
+\rightarrow
+\text{CNO cycling}
+\rightarrow
+^{14}\mathrm{N}
+}
+$$
+
+This makes the nucleosynthesis of metal-free stars fundamentally different from that of metal-rich AGB stars: much of the material being processed was not present in the initial composition.
+
+### H--He interaction
+
+At zero metallicity, the interaction between the H- and He-burning regions can become particularly important. Mixing events can transport protons into the He-burning region, producing \(^{13}\mathrm{C}\) and potentially generating high neutron densities.
+
+Depending on the stellar mass and the treatment of mixing, these proton-ingestion events can therefore lead to:
+
+- primary \(^{12}\mathrm{C}\);
+- primary \(^{14}\mathrm{N}\);
+- production of other light elements;
+- neutron-capture nucleosynthesis;
+- and potentially i-process conditions.
+
+The exact behaviour is strongly model dependent, so the metal-free regime should not be thought of as a single nucleosynthetic pathway.
+
+The key point is that the first AGB stars occupy an extreme regime in which **He burning creates the CNO material required for subsequent H burning**, while interactions between the H- and He-burning regions can open additional neutron-capture pathways.
+
 ## Super AGBs: The High-Mass Limit
+
+
+
+
 
 ## AGBs in Binaries
 
