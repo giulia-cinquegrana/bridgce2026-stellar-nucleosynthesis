@@ -53,7 +53,7 @@ $$
 3 ^4\mathrm{He}\rightarrow{}^{12}\mathrm{C}.
 $$
 
-    - The enormous increase in energy generation drives a *pulse-driven convective zone* through the He-intershell, between the He- and H-burning shells. This region becomes strongly mixed, homogenising the material that has accumulated and been processed in the intershell. The pulse temporarily extinguishes the H-burning shell.
+The enormous increase in energy generation drives a *pulse-driven convective zone* through the He-intershell, between the He- and H-burning shells. This region becomes strongly mixed, homogenising the material that has accumulated and been processed in the intershell. The pulse temporarily extinguishes the H-burning shell.
 
 ### Third Dredge-Up 
 
@@ -97,23 +97,7 @@ The next question is, *how do initial mass and metallicity determine which of th
 
 ## How Mass and Metallicity Shape AGB Nucleosynthesis
 
-So far, we've looked at the AGB star as a physical system: a degenerate core, two burning shells, a convective envelope, and a sequence of thermal pulses and mixing episodes. But this picture is not the same for every AGB star. What actually comes out of an AGB star can be very different depending on where the star sits in *initial mass and metallicity* space. These parameters determine the stellar structure and evolutionary timescales, which in turn determine the temperatures and densities reached in the burning regions, the efficiency of mixing, and how long the star has to lose its envelope.
-
-There is therefore a chain connecting the initial properties of the star to its nucleosynthetic output:
-
-$$
-(M, Z)
-\rightarrow
-\text{stellar structure}
-\rightarrow
-(T,\rho,\text{mixing, mass loss})
-\rightarrow
-\text{nuclear burning}
-\rightarrow
-\text{surface abundances and yields}.
-$$
-
-Let's first consider metallicity.
+So far, we've looked at the AGB star as a physical system: a degenerate core, two burning shells, a convective envelope, and a sequence of thermal pulses and mixing episodes. But this picture is not the same for every AGB star. What actually comes out of an AGB star can be very different depending on where the star sits in initial mass and metallicity space. These parameters determine the stellar structure and evolutionary timescales, which in turn determine the temperatures and densities reached in the burning regions, the efficiency of mixing, and how long the star has to lose its envelope.
 
 ### Metallicity
 
@@ -121,25 +105,27 @@ Metallicity affects AGB nucleosynthesis in two distinct ways. First, it changes 
 
 #### Opacity
 
-The opacity of stellar material depends strongly on its composition. As metallicity increases, the opacity of the stellar gas generally increases.
+Opacity sources in low- and intermediate-mass stars tend to comprise of metal-dependent transitions (bound free and free absorption). Metal-rich material therefore interacts more strongly with radiation, making it harder for energy to escape through the stellar envelope. The radiative temperature gradient is
 
-Higher opacity changes the way energy is transported through the star, leading to lower effective temperatures and, in the relevant AGB models, lower densities and temperatures at the base of the convective envelope. These structural differences are particularly important for intermediate-mass stars because they can suppress **hot-bottom burning**.
+$$
+\nabla_{\rm rad}
+=
+\frac{3\kappa P L}{16\pi a c G m T^4},
+$$
 
-This means that metallicity does not simply change the amount of material available for nucleosynthesis; it changes the physical conditions under which the nucleosynthesis takes place. In our very metal-rich models, for example, the temperature at the base of the convective envelope decreases substantially with increasing metallicity, delaying or suppressing HBB. :contentReference[oaicite:1]{index=1}
+where \(\kappa\) is the opacity. Increasing the opacity increases the radiative temperature gradient required to transport the stellar luminosity. At a given mass and luminosity, metal-rich stars consequently tend to have more extended, less compact envelopes and cooler surface temperatures than their metal-poor counterparts. This structural difference then feeds directly into the AGB nucleosynthesis: the envelope structure determines the temperatures reached at its base, the efficiency of mixing, and ultimately whether processes such as hot-bottom burning can operate.
 
 #### Mean molecular weight
 
-Metallicity is also accompanied by changes in the initial helium abundance, and therefore in the **mean molecular weight** of the stellar gas.
-
-For an ideal gas,
+Metallicity is also accompanied by changes in the initial helium abundance, and therefore in the **mean molecular weight** of the stellar gas. For an ideal gas,
 
 $$
 P \propto \frac{\rho T}{\mu},
 $$
 
-so increasing the mean molecular weight changes the temperature required to provide pressure support. In our very metal-rich models, the increase in \(\mu\) can become sufficiently important that it offsets some of the structural effects of increasing opacity, producing hotter and more luminous main-sequence models at the highest metallicities.
+so increasing the mean molecular weight changes the temperature required to provide pressure support. In our very metal-rich models, the increase in \(\mu\) can become sufficiently important that it offsets some of the structural effects of increasing opacity, producing hotter and more luminous main-sequence models at the highest metallicities ($\rm [Fe/H] > +0.5$).
 
-This has an important consequence: metallicity does not produce a simple monotonic change in every stellar property. Opacity and mean molecular weight act in opposite directions, and their relative importance changes across the metallicity range. :contentReference[oaicite:2]{index=2}
+This has an important consequence: metallicity does not produce a simple monotonic change in every stellar property. Opacity and mean molecular weight act in opposite directions, and their relative importance changes across the metallicity range.
 
 #### Mass loss
 
