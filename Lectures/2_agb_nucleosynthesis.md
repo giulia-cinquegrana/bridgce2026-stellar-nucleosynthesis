@@ -73,6 +73,29 @@ Importantly, *the cycle is not identical from pulse to pulse*. The core mass, en
 
 So far, we've looked at the AGB star as a physical system: a degenerate core, two burning shells, a convective envelope, and a sequence of thermal pulses and mixing episodes. But this picture is not the same for every AGB star. What actually comes out of an AGB star can be very different depending on where the star sits in initial mass and metallicity space. These parameters determine the stellar structure and evolutionary timescales, which in turn determine the temperatures and densities reached in the burning regions, the efficiency of mixing, and how long the star has to lose its envelope.
 
+### Mass
+
+Initial mass provides the other major axis of the AGB nucleosynthesis landscape. The most important consequence of increasing mass is that the star develops a more massive core and reaches higher temperatures in its interior. This changes which nuclear-burning regimes become accessible. A more massive star has a stronger gravitational potential and develops higher pressures and temperatures in its interior. This means that increasing the initial mass can move the star across thresholds for different nuclear reactions.
+
+For AGB stars, this is particularly important for the temperature at the base of the convective envelope. As the stellar mass increases, the base of the envelope becomes progressively hotter, eventually reaching the temperatures required for **hot-bottom burning**. At solar metallicity, HBB typically begins around the intermediate-mass regime, although the precise mass threshold is model dependent. At a fixed mass, decreasing metallicity generally produces higher temperatures at the base of the envelope and therefore makes HBB easier to activate. Once HBB is operating, the nucleosynthetic regime changes fundamentally. Instead of relying primarily on material being transported from the He-intershell to the surface, nuclear processing occurs directly at the base of the convective envelope. Depending on the temperature, this can activate the CNO cycles and the Ne--Na and Mg--Al chains, strongly affecting the abundances of C, N, O, Na, Mg and Al.
+
+Mass also affects the efficiency of third dredge-up. In general, TDU becomes more efficient with increasing stellar mass and decreasing metallicity, although the precise behaviour depends on the stellar evolution model and its treatment of convective boundaries. This gives us a useful first-order picture:
+
+$$
+\boxed{
+\begin{array}{ccc}
+\text{Low mass}
+&\longrightarrow&
+\text{cooler envelopes, TDU, }^{13}\mathrm C\text{ neutron source}
+\\[0.5em]
+\text{Intermediate mass}
+&\longrightarrow&
+\text{hotter envelopes, HBB, }^{22}\mathrm{Ne}\text{ neutron source}
+\end{array}}
+$$
+
+with metallicity shifting the boundaries between these regimes. This is why there is no single nucleosynthetic signature for an AGB star. *Mass and metallicity determine which physical processes are available, how efficiently they operate, and whether their products ultimately reach the surface and are ejected.* And this gives us the framework for the rest of the lecture: rather than treating all AGB stars as one nucleosynthetic site, we can now move through the mass--metallicity plane and ask which processes dominate in each regime.
+
 ### Metallicity
 
 Metallicity affects AGB nucleosynthesis in two distinct ways. First, it changes the **structure of the star** through quantities such as opacity and mean molecular weight. Second, it changes the **composition of the material being processed**, including the abundance of CNO nuclei and the number of neutron-capture seed nuclei.
@@ -95,240 +118,142 @@ Metallicity affects AGB nucleosynthesis in two distinct ways. First, it changes 
 
 - **Composition of the nuclear-burning material**: Finally, metallicity changes the *starting composition of the nuclear reactions themselves*. At higher metallicity, the star begins with larger abundances of CNO nuclei and other heavy elements. This matters particularly for proton-capture nucleosynthesis, where many of the nuclei being processed are already present in the initial composition. For example, the CNO nuclei act largely as catalysts in the CNO cycle, but their increasing initial abundance means that the resulting abundance changes can be strongly metallicity dependent. In our metal-rich models, this contributes to enhanced production of secondary species such as \(^{14}\mathrm N\), while some initially abundant CNO isotopes experience greater destruction. Metallicity is also fundamental to neutron-capture nucleosynthesis because it changes the abundance of the seed nuclei onto which neutrons are captured. Combined with the metallicity dependence of the neutron sources and dredge-up, this is one reason why the heavy-element nucleosynthesis of AGB stars changes so strongly across the metallicity range.
 
-### Mass
-
-Initial mass provides the other major axis of the AGB nucleosynthesis landscape. The most important consequence of increasing mass is that the star develops a more massive core and reaches higher temperatures in its interior. This changes which nuclear-burning regimes become accessible. A more massive star has a stronger gravitational potential and develops higher pressures and temperatures in its interior. This means that increasing the initial mass can move the star across thresholds for different nuclear reactions.
-
-For AGB stars, this is particularly important for the temperature at the base of the convective envelope. As the stellar mass increases, the base of the envelope becomes progressively hotter, eventually reaching the temperatures required for **hot-bottom burning**. At solar metallicity, HBB typically begins around the intermediate-mass regime, although the precise mass threshold is model dependent. At a fixed mass, decreasing metallicity generally produces higher temperatures at the base of the envelope and therefore makes HBB easier to activate. Once HBB is operating, the nucleosynthetic regime changes fundamentally. Instead of relying primarily on material being transported from the He-intershell to the surface, nuclear processing occurs directly at the base of the convective envelope. Depending on the temperature, this can activate the CNO cycles and the Ne--Na and Mg--Al chains, strongly affecting the abundances of C, N, O, Na, Mg and Al.
-
-Mass also affects the efficiency of third dredge-up. In general, TDU becomes more efficient with increasing stellar mass and decreasing metallicity, although the precise behaviour depends on the stellar evolution model and its treatment of convective boundaries. 
-
-This gives us a useful first-order picture:
-
-$$
-\boxed{
-\begin{array}{ccc}
-\text{Low mass}
-&\longrightarrow&
-\text{cooler envelopes, TDU, }^{13}\mathrm C\text{ neutron source}
-\\[0.5em]
-\text{Intermediate mass}
-&\longrightarrow&
-\text{hotter envelopes, HBB, }^{22}\mathrm{Ne}\text{ neutron source}
-\end{array}}
-$$
-
-with metallicity shifting the boundaries between these regimes. This is why there is no single nucleosynthetic signature for an AGB star. *Mass and metallicity determine which physical processes are available, how efficiently they operate, and whether their products ultimately reach the surface and are ejected.* And this gives us the framework for the rest of the lecture: rather than treating all AGB stars as one nucleosynthetic site, we can now move through the mass--metallicity plane and ask which processes dominate in each regime.
-
 ---
 
-## Metal-Rich AGB Stars: $^{13}\mathrm{C}$ and $^{22}\mathrm{Ne}$ Neutron Sources
+Okay, lets take X different examples of the mass and metallicity range to look at in detail. 
 
-At approximately solar and super-solar metallicity, AGB nucleosynthesis follows the classical picture of two main neutron sources, with their relative importance determined primarily by stellar mass.
+## Low-Mass AGB Stars
 
-### Low-mass AGB stars: the $^{13}\mathrm{C}$ neutron source
+Low-mass AGB stars are characterised by efficient third dredge-up and relatively cool thermal pulses. Their nucleosynthesis is dominated by the production of **carbon and heavy s-process elements**, with the potential to produce substantial enhancements extending to the third s-process peak.
 
-In low-mass AGB stars, the dominant neutron source is
+### Metal-Free to Metal-Poor
 
-$$
-^{13}\mathrm{C}(\alpha,n)^{16}\mathrm{O},
-$$
+- Efficient third dredge-up brings primary \(^{12}\mathrm{C}\) to the surface.
+- At low metallicity, the high neutron-to-seed ratio favours production of heavy s-process elements.
+- Strong carbon enhancement can therefore accompany large enhancements in Ba--Pb.
+- At sufficiently low metallicity, proton-ingestion events can occur, producing primary nitrogen and potentially opening the **i-process**.
+- The nucleosynthesis can therefore transition from classical s-process behaviour to proton-ingestion/i-process behaviour as metallicity decreases.
 
-which operates during the **interpulse phase** in the He-intershell.
+### Metal-Rich to Super-Metal-Rich
 
-The \(^{13}\mathrm{C}\) is produced in a \(^{13}\mathrm{C}\)-rich pocket formed through partial proton mixing into the \(^{12}\mathrm{C}\)-rich intershell:
+- Increasing metallicity reduces the efficiency of third dredge-up.
+- The larger abundance of Fe-peak seed nuclei also reduces the neutron-to-seed ratio, shifting the s-process distribution toward lighter nuclei.
+- At sufficiently high metallicity, strong mass loss can limit the number of thermal pulses and dredge-up episodes.
+- Consequently, carbon and heavy s-process enrichment become progressively weaker.
+- At the highest metallicities, AGB yields can become dominated by material processed through H burning rather than newly synthesised primary carbon and heavy elements.
 
-$$
-^{12}\mathrm{C}(p,\gamma)^{13}\mathrm{N}
-\rightarrow
-^{13}\mathrm{C}.
-$$
+## Intermediate-Mass AGB Stars
 
-The relatively low neutron densities and long neutron exposure are characteristic of the classical **main s-process**. The resulting neutron captures progressively build nuclei beyond iron, with the final abundance distribution depending strongly on the neutron exposure and the initial abundance of seed nuclei.
+Intermediate-mass AGB stars reach substantially higher temperatures than their low-mass counterparts. Their nucleosynthesis is therefore increasingly dominated by **hot-bottom burning**, rather than by the \(^{13}\mathrm{C}\) neutron source.
 
-### Intermediate-mass AGB stars: the \(^{22}\mathrm{Ne}\) neutron source
+Characteristic products include enhanced **\(^{14}\mathrm{N}\), Na, Al and Mg**, as well as \(^{7}\mathrm{Li}\) under suitable conditions. Their s-process production is generally weaker and is more strongly influenced by the \(^{22}\mathrm{Ne}\) neutron source, favouring production around the first s-process peak.
 
-At higher initial masses, the He-shell reaches higher temperatures during thermal pulses, allowing the reaction
+### Metal-Poor
 
-$$
-^{22}\mathrm{Ne}(\alpha,n)^{25}\mathrm{Mg}
-$$
+- Lower metallicity allows higher temperatures to be reached at the base of the convective envelope.
+- HBB therefore becomes stronger and can activate the CNO, Ne--Na and Mg--Al cycles.
+- Efficient HBB converts dredged-up carbon into primary \(^{14}\mathrm{N}\).
+- Depending on the temperature, Na and Al can be enhanced while O and Mg can be depleted.
+- The \(^{22}\mathrm{Ne}(\alpha,n)^{25}\mathrm{Mg}\) neutron source becomes increasingly important during thermal pulses.
+- Higher neutron densities but shorter exposures favour production toward the **first s-process peak**, rather than the heavy-s-process distribution characteristic of low-mass AGB stars.
+- At sufficiently low metallicity, proton-ingestion behaviour can again introduce qualitatively different nucleosynthesis.
 
-to become an important neutron source.
+### Metal-Rich
 
-Unlike the \(^{13}\mathrm{C}\) source, the \(^{22}\mathrm{Ne}\) source operates **during the thermal pulse**, within the pulse-driven convective zone. It produces higher neutron densities but over shorter timescales, activating branching points in the s-process path that are less important for the \(^{13}\mathrm{C}\) source.
+- Higher opacity produces a more extended envelope and generally lowers the temperature at its base.
+- HBB is therefore weaker and requires a higher initial stellar mass to activate.
+- Increasing metallicity also raises the initial abundance of CNO nuclei, making the resulting N production increasingly secondary.
+- Stronger mass loss can shorten the TP-AGB and reduce the number of thermal pulses and dredge-up episodes.
+- At very high metallicity, third dredge-up can become inefficient or disappear entirely, strongly reducing the production of primary carbon and heavy s-process elements.
+- If HBB does operate, the yields can instead be dominated by secondary N and proton-capture products.
 
-The two neutron sources therefore probe different regions of the AGB:
+## Super-AGB Stars
 
-$$
-\boxed{
-^{13}\mathrm{C}(\alpha,n)^{16}\mathrm{O}
-\quad\text{interpulse}
-}
-\qquad
-\boxed{
-^{22}\mathrm{Ne}(\alpha,n)^{25}\mathrm{Mg}
-\quad\text{thermal pulse}
-}
-$$
+Super-AGB stars occupy the transition between intermediate-mass stars that end their lives as white dwarfs and massive stars that undergo core-collapse.
 
-The \(^{22}\mathrm{Ne}\) source also produces \(^{25}\mathrm{Mg}\) and \(^{26}\mathrm{Mg}\) through competing \(\alpha\)-capture reactions.
-
-### The effect of metallicity
-
-Metallicity then determines how efficiently these neutron sources can build heavy nuclei.
-
-At lower metallicity, there are fewer Fe-peak seed nuclei available per neutron. The neutron-to-seed ratio therefore increases:
-
-$$
-\text{lower } Z
-\quad\rightarrow\quad
-\text{higher neutron/seed}
-\quad\rightarrow\quad
-\text{heavier s-process distribution}.
-$$
-
-Lower-metallicity models also tend to experience stronger thermal pulses and more efficient third dredge-up, allowing more of this material to reach the stellar surface.
-
-At high metallicity, the opposite trend occurs. Increasing metallicity suppresses third dredge-up and reduces the number of thermal pulses through stronger mass loss. At sufficiently high metallicity, the envelope can even be lost before significant thermal-pulse nucleosynthesis occurs.
-
-Thus, increasing metallicity does not simply change the initial composition of the star: it changes whether the star can efficiently produce, mix, and eject newly synthesised heavy elements.
-
----
-
-## Metal-poor Low and Intermediate Mass AGBs: From the s-Process to the i-Process
-
-As we move to lower metallicity, the classical s-process becomes increasingly efficient at producing heavy elements.
-
-Lower-metallicity AGB stars experience stronger thermal pulses and more efficient third dredge-up, while the reduced abundance of seed nuclei increases the neutron-to-seed ratio. This favours the production of heavy s-process elements and large surface enrichments in carbon.
-
-The picture becomes more interesting at **very low metallicity**, where the separation between the H- and He-burning regions can become important for the nucleosynthesis.
-
-### Primary carbon and nitrogen
-
-Third dredge-up brings freshly synthesised \(^{12}\mathrm{C}\) from the He-intershell into the envelope. Because this carbon was produced from helium burning rather than inherited from the initial metallicity, it is a **primary** product.
-
-At low metallicity, this newly produced carbon can subsequently be processed through the CNO cycle:
-
-$$
-^{12}\mathrm{C}
-\rightarrow
-^{14}\mathrm{N}.
-$$
-
-This provides a pathway to **primary nitrogen**:
-
-$$
-\boxed{
-\text{He burning}
-\rightarrow
-^{12}\mathrm{C}
-\rightarrow
-\text{H burning}
-\rightarrow
-^{14}\mathrm{N}
-}
-$$
-
-The AGB can therefore contribute primary C and N even when the star began with very little metal content.
-
-### Proton ingestion and the i-process
-
-At sufficiently low metallicity, mixing between the H-rich envelope and the He-burning region can lead to **proton-ingestion events**.
-
-Protons mixed into the \(^{12}\mathrm{C}\)-rich He-burning material can produce \(^{13}\mathrm{C}:
-
-$$
-^{12}\mathrm{C}(p,\gamma)^{13}\mathrm{N}
-\rightarrow
-^{13}\mathrm{C},
-$$
-
-which can subsequently undergo
-
-$$
-^{13}\mathrm{C}(\alpha,n)^{16}\mathrm{O}.
-$$
-
-If this occurs while the He-burning region is convective, the resulting neutron production can reach densities substantially higher than those characteristic of the classical s-process.
-
-This opens the **intermediate neutron-capture process**, or **i-process** regime:
-
-$$
-n_{\mathrm{s}}
-<
-n_{\mathrm{i}}
-<
-n_{\mathrm{r}}.
-$$
-
-The higher neutron densities move the neutron-capture path further from the valley of stability and activate branching points that are not accessible under classical s-process conditions.
-
-The important point is that decreasing metallicity does not simply produce *more* of the same s-process nucleosynthesis. At sufficiently low metallicity, the stellar structure can change enough to introduce **new nucleosynthetic pathways**.
-
----
-
-## Metal-free Low and Intermediate Mass AGBs: The First AGB Stars
-
-At the extreme limit of the metallicity axis are the first, metal-free stars.
-
-These stars begin with essentially no CNO nuclei. Their early hydrogen burning therefore cannot initially rely on the CNO cycle and instead proceeds primarily through the pp chains.
-
-The situation changes once helium burning begins.
-
-### Producing the first CNO nuclei
-
-The triple-\(\alpha\) reaction produces the first significant carbon:
-
-$$
-3\,^4\mathrm{He}
-\rightarrow
-^{12}\mathrm{C}.
-$$
-
-This carbon can then be transported into regions where hydrogen burning occurs and converted through the CNO cycle into \(^{14}\mathrm{N}.
-
-The star therefore begins to **manufacture its own CNO catalysts**:
-
-$$
-\boxed{
-\text{He burning}
-\rightarrow
-^{12}\mathrm{C}
-\rightarrow
-\text{CNO cycling}
-\rightarrow
-^{14}\mathrm{N}
-}
-$$
-
-This makes the nucleosynthesis of metal-free stars fundamentally different from that of metal-rich AGB stars: much of the material being processed was not present in the initial composition.
-
-### H--He interaction
-
-At zero metallicity, the interaction between the H- and He-burning regions can become particularly important. Mixing events can transport protons into the He-burning region, producing \(^{13}\mathrm{C}\) and potentially generating high neutron densities.
-
-Depending on the stellar mass and the treatment of mixing, these proton-ingestion events can therefore lead to:
-
-- primary \(^{12}\mathrm{C}\);
-- primary \(^{14}\mathrm{N}\);
-- production of other light elements;
-- neutron-capture nucleosynthesis;
-- and potentially i-process conditions.
-
-The exact behaviour is strongly model dependent, so the metal-free regime should not be thought of as a single nucleosynthetic pathway.
-
-The key point is that the first AGB stars occupy an extreme regime in which **He burning creates the CNO material required for subsequent H burning**, while interactions between the H- and He-burning regions can open additional neutron-capture pathways.
-
----
-
-## Super AGBs: The High-Mass Limit
-
-
-
-
+- Their initial masses are high enough to ignite carbon burning, but they develop partially degenerate cores.
+- They therefore experience both advanced core burning and an AGB-like thermally pulsing phase.
+- Carbon burning can occur in a partially degenerate core and may proceed through carbon-burning shells.
+- Their high core masses and high envelope temperatures make them particularly important sites for HBB and proton-capture nucleosynthesis.
+- The high temperatures also allow the \(^{22}\mathrm{Ne}\) neutron source to operate efficiently.
+- Their yields can therefore be rich in **N, Na, Al and Mg**, with a different neutron-capture signature from low-mass AGB stars.
+- Strong mass loss is crucial: depending on the competition between envelope loss and core growth, a super-AGB star may end as an ONe white dwarf or proceed to an electron-capture or core-collapse supernova.
 
 ## AGBs in Binaries
+
+So far, we've treated AGB stars as isolated stars. But this is an important simplification: a large fraction of low- and intermediate-mass stars have companions, and binary interactions can substantially alter the evolution of the AGB star and therefore its nucleosynthetic yields. :contentReference[oaicite:0]{index=0}
+
+The important point is that the companion does not simply provide another source of material. **Binary interactions can change the mass, core-to-envelope ratio, lifetime, and evolutionary pathway of the AGB star itself.**
+
+### How can a companion change an AGB star?
+
+There are several possible interactions:
+
+- **Mass transfer:** one star can transfer material to its companion, changing the companion's total mass and composition.
+- **Wind accretion:** the companion can accrete material from the AGB wind.
+- **Roche-lobe overflow:** if the AGB star expands sufficiently, it can transfer mass directly to its companion.
+- **Common-envelope evolution:** in sufficiently close systems, the companion can enter the AGB envelope, rapidly removing it and potentially terminating the AGB phase.
+- **Mergers:** the two stars can ultimately merge, producing an evolutionary pathway that cannot be represented by a single-star model.
+
+All of these processes can change how long the star remains on the TP-AGB and how many thermal pulses and dredge-up episodes it experiences.
+
+### Changing the TP-AGB lifetime
+
+One particularly interesting result from Osborn et al. is that binary evolution can sometimes **increase** the duration of the TP-AGB.
+
+If a star gains envelope mass after core-He burning, it can enter the TP-AGB with a relatively small core-to-total-mass ratio. These stars can remain on the TP-AGB for much longer than single stars of the same initial mass.
+
+This has a direct nucleosynthetic consequence: a longer TP-AGB lifetime means more thermal pulses, more opportunities for third dredge-up, and more time for H-burning processes such as HBB to operate.
+
+This effect is particularly striking for \(^{26}\mathrm{Al}\). Osborn et al. find that binary systems can produce stars with substantially enhanced \(^{26}\mathrm{Al}\) because of these unusually long TP-AGB lifetimes. For a population with a binary fraction of \(0.75\), the population-weighted \(^{26}\mathrm{Al}\) yield was approximately \(25\%\) higher than for a population of single stars. :contentReference[oaicite:1]{index=1}
+
+So binary evolution does not necessarily mean **less** nucleosynthesis. In some evolutionary pathways, it can actually extend the time available for nucleosynthesis and increase specific yields.
+
+### But binaries can also suppress AGB nucleosynthesis
+
+The opposite can happen if binary interaction removes the envelope.
+
+If mass transfer or a common-envelope phase strips the AGB envelope before the star has completed its normal TP-AGB evolution, the star experiences fewer thermal pulses and less third dredge-up.
+
+This can substantially reduce the amount of carbon and s-process material that is ultimately ejected.
+
+Osborn et al.'s population-synthesis calculations at solar metallicity find that a population with a binary fraction of \(0.7\) ejects approximately **20--25\% less carbon and s-process material** than an equivalent population of only single stars, while the total N and O yields change much less. :contentReference[oaicite:2]{index=2}
+
+At low metallicity, the effect can be even larger. At \(Z=0.0001\), binary populations were predicted to contain approximately **37\% fewer TP-AGB stars**, resulting in roughly **40\% less ejected carbon** and **35--40\% less material produced by the s-process** compared with single-star populations. :contentReference[oaicite:3]{index=3}
+
+### The important consequence for chemical evolution
+
+This means that the usual approach of taking a grid of **single-star AGB yields** and integrating them over an initial-mass function is incomplete if binary evolution is important.
+
+Schematically, instead of
+
+$$
+\text{initial mass}
+\rightarrow
+\text{single-star AGB}
+\rightarrow
+\text{yield},
+$$
+
+we should really have
+
+$$
+\boxed{
+\text{initial mass + binary properties}
+\rightarrow
+\text{binary evolution}
+\rightarrow
+\text{modified AGB evolution}
+\rightarrow
+\text{yield}
+}
+$$
+
+The binary parameters introduce another dimension to the AGB nucleosynthesis landscape: **mass, metallicity, and binary configuration**.
+
+And importantly, the effect is not necessarily a simple reduction in the yield. Binary interactions can either **truncate the AGB and suppress nucleosynthesis**, or **alter the stellar structure in a way that extends the TP-AGB and enhances particular products**.
+
+This is why binary population synthesis is important for translating individual stellar models into realistic chemical yields for stellar populations.
 
 ## The AGB Nucleosynthesis Landscape: Mass x Metallicity
 
