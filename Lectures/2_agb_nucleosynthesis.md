@@ -51,17 +51,11 @@ $$
 
     - There is also an important connection to the **$^{13}\mathrm{C}$ pocket**. Following dredge-up, partial mixing of protons into the $^{12}\mathrm{C}$-rich intershell can produce a $^{13}\mathrm{C}$-rich layer,
 
-    $$
-    ^{12}\mathrm{C}(p,\gamma)^{13}\mathrm{N}
-    \rightarrow
-    ^{13}\mathrm{C},
-    $$
+    $^{12}\mathrm{C}(p,\gamma)^{13}\mathrm{N} \rightarrow ^{13}\mathrm{C}$
 
     which can subsequently act as a neutron source through
 
-    $$
-    ^{13}\mathrm{C}(\alpha,n)^{16}\mathrm{O}.
-    $$
+    $^{13}\mathrm{C}(\alpha,n)^{16}\mathrm{O}.$
 
     The formation and structure of this pocket depend on how mixing is treated at the convective boundary. In sufficiently massive AGB stars, the base of the envelope can become hot enough that protons are burned during dredge-up itself—so-called **hot dredge-up**—which can inhibit the formation of a \(^{13}\mathrm{C}\) pocket.
 
