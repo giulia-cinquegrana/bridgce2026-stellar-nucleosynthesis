@@ -103,15 +103,13 @@ So far, we've looked at the AGB star as a physical system: a degenerate core, tw
 
 Metallicity affects AGB nucleosynthesis in two distinct ways. First, it changes the **structure of the star** through quantities such as opacity and mean molecular weight. Second, it changes the **composition of the material being processed**, including the abundance of CNO nuclei and the number of neutron-capture seed nuclei.
 
-#### Opacity
+- **Opacity ($\kappa$)**: $\kappa$ sources in low- and intermediate-mass stars tend to comprise of metal-dependent transitions (bound free and free absorption). Metal-rich material therefore interacts more strongly with radiation, making it harder for energy to escape through the stellar envelope. The radiative temperature gradient is, 
 
-Opacity sources in low- and intermediate-mass stars tend to comprise of metal-dependent transitions (bound free and free absorption). Metal-rich material therefore interacts more strongly with radiation, making it harder for energy to escape through the stellar envelope. The radiative temperature gradient is, 
+    $$
+    \nabla_{\rm rad} = \frac{3\kappa P L}{16\pi a c G m T^4},
+    $$ 
 
-$$
-\nabla_{\rm rad} = \frac{3\kappa P L}{16\pi a c G m T^4},
-$$ 
-
-where \(\kappa\) is the opacity. Increasing the opacity increases the radiative temperature gradient required to transport the stellar luminosity. At a given mass and luminosity, metal-rich stars consequently tend to have more extended, less compact envelopes and cooler surface temperatures than their metal-poor counterparts. This structural difference then feeds directly into the AGB nucleosynthesis: the envelope structure determines the temperatures reached at its base, the efficiency of mixing, and ultimately whether processes such as hot-bottom burning can operate.
+    where \(\kappa\) is the opacity. Increasing the opacity increases the radiative temperature gradient required to transport the stellar luminosity. At a given mass and luminosity, metal-rich stars consequently tend to have more extended, less compact envelopes and cooler surface temperatures than their metal-poor counterparts. This structural difference then feeds directly into the AGB nucleosynthesis: the envelope structure determines the temperatures reached at its base, the efficiency of mixing, and ultimately whether processes such as hot-bottom burning can operate.
 
 #### Mean molecular weight
 
