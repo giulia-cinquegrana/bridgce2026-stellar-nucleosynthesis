@@ -14,6 +14,8 @@ Asymptotic Giant Branch stars are important sites for galactic chemical evolutio
 
 This afternoon we will follow the journey of material through an AGB star: where it is produced, how it is transported to the surface, and how it is ultimately returned to the interstellar medium. Along the way, we'll see how changing mass and metallicity can move a star between very different nucleosynthetic regimes, and how we translate these stellar models into the yields used in chemical-evolution models.
 
+---
+
 ## What is an AGB star?
 
 The AGB is one of the last active burning stages in the evolution of low- and intermediate-mass stars. Broadly, we are talking about stars with initial masses between roughly 1 and $8\,\rm M_\odot$, although that range depends on metallicity and other aspects of the stellar physics.
@@ -32,6 +34,8 @@ The result is the characteristic double-shell structure of the AGB; an inactive,
 This gives us the basic architecture we need: multiple nuclear-burning sites, a chemically important intershell region, and a large convective envelope surrounding them. The star also undergoes increasingly strong mass loss during this phase, progressively eroding the envelope and eventually exposing the compact remnant. The loss of the envelope marks the end of the AGB, leaving behind a C–O white dwarf in the case of stars that do not proceed to more advanced burning.
 
 But this picture is still static. As the star evolves along the AGB, the structure of these burning regions changes, and with it the conditions under which nucleosynthesis occurs. So what drives this changing structure, and how does it lead to the repeated episodes of nucleosynthesis that characterise the AGB?
+
+---
 
 ## The Thermally Pulsing AGB Engine
 
@@ -78,6 +82,8 @@ $$
 Importantly, *the cycle is not identical from pulse to pulse*. The core mass, envelope mass, temperature, composition, and mass-loss rate all evolve throughout the TP-AGB. One of the key features of this whole process is that **these cycles repeat many times**. The number of pulses a star experiences, the strength of those pulses, the efficiency of third dredge-up, whether a \(^{13}\mathrm{C}\) pocket forms, and whether HBB operates all depend on the stellar properties. At the same time, the envelope is being progressively removed by stellar winds. The nucleosynthetic products are therefore being *processed, mixed, and ejected repeatedly throughout the AGB*, rather than only at the very end of the star's life.
 
 The next question is, *how do initial mass and metallicity determine which of these processes dominates?*
+
+---
 
 ## How Mass and Metallicity Shape AGB Nucleosynthesis
 
@@ -191,6 +197,8 @@ $$
 with metallicity shifting the boundaries between these regimes.
 
 This is why there is no single nucleosynthetic signature for an AGB star. *Mass and metallicity determine which physical processes are available, how efficiently they operate, and whether their products ultimately reach the surface and are ejected.* And this gives us the framework for the rest of the lecture: rather than treating all AGB stars as one nucleosynthetic site, we can now move through the mass--metallicity plane and ask which processes dominate in each regime.
+
+---
 
 ## Metal-Rich AGB Stars: $^{13}\mathrm{C}$ and $^{22}\mathrm{Ne}$ Neutron Sources
 
@@ -389,6 +397,8 @@ Depending on the stellar mass and the treatment of mixing, these proton-ingestio
 The exact behaviour is strongly model dependent, so the metal-free regime should not be thought of as a single nucleosynthetic pathway.
 
 The key point is that the first AGB stars occupy an extreme regime in which **He burning creates the CNO material required for subsequent H burning**, while interactions between the H- and He-burning regions can open additional neutron-capture pathways.
+
+---
 
 ## Super AGBs: The High-Mass Limit
 
