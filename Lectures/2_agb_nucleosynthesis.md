@@ -192,11 +192,11 @@ with metallicity shifting the boundaries between these regimes.
 
 This is why there is no single nucleosynthetic signature for an AGB star. *Mass and metallicity determine which physical processes are available, how efficiently they operate, and whether their products ultimately reach the surface and are ejected.* And this gives us the framework for the rest of the lecture: rather than treating all AGB stars as one nucleosynthetic site, we can now move through the mass--metallicity plane and ask which processes dominate in each regime.
 
-## Metal-Rich AGB Stars: \(^{13}\mathrm{C}\) and \(^{22}\mathrm{Ne}\) Neutron Sources
+## Metal-Rich AGB Stars: $^{13}\mathrm{C}$ and $^{22}\mathrm{Ne}$ Neutron Sources
 
 At approximately solar and super-solar metallicity, AGB nucleosynthesis follows the classical picture of two main neutron sources, with their relative importance determined primarily by stellar mass.
 
-### Low-mass AGB stars: the \(^{13}\mathrm{C}\) neutron source
+### Low-mass AGB stars: the $^{13}\mathrm{C}$ neutron source
 
 In low-mass AGB stars, the dominant neutron source is
 
