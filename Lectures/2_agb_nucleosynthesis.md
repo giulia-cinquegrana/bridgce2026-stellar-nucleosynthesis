@@ -41,23 +41,17 @@ The defining feature of the thermally pulsing AGB is that the two burning shells
 
 ### The Early AGB
 
- After helium-shell burning is established on the early AGB, the H-burning shell continues to deposit helium ash onto the He-burning shell. The He-rich layer therefore becomes progressively more massive and compressed. As the He-burning shell becomes geometrically thinner, it becomes increasingly susceptible to the *thin-shell instability* (see derivation *here*). 
-
-In a sufficiently thin shell, expansion does not provide the usual stabilising feedback: the shell cannot expand enough to reduce its temperature and hence its nuclear energy generation. The result is a thermonuclear runaway, or *thermal pulse*.
+After helium-shell burning is established on the early AGB, the H-burning shell continues to deposit helium ash onto the He-burning shell. The He-rich layer therefore becomes progressively more massive and compressed. As the He-burning shell becomes geometrically thinner, it becomes increasingly susceptible to the *thin-shell instability* (see derivation *here*). In a sufficiently thin shell, expansion does not provide the usual stabilising feedback: the shell cannot expand enough to reduce its temperature and hence its nuclear energy generation. The result is a thermonuclear runaway, or *thermal pulse*.
 
 ### The Thermal Pulse 
 
-Temperatures in the He-burning shell rise rapidly, causing the helium-burning rate to increase sharply through the triple-α reaction,
-
-$$
-3 ^4\mathrm{He}\rightarrow{}^{12}\mathrm{C}.
-$$
-
-The enormous increase in energy generation drives a *pulse-driven convective zone* through the He-intershell, between the He- and H-burning shells. This region becomes strongly mixed, homogenising the material that has accumulated and been processed in the intershell. The pulse temporarily extinguishes the H-burning shell.
+Temperatures in the He-burning shell rise rapidly, causing the helium-burning rate to increase sharply through the triple-α reaction. The enormous increase in energy generation drives a *pulse-driven convective zone* through the He-intershell, between the He- and H-burning shells. This region becomes strongly mixed, homogenising the material that has accumulated and been processed in the intershell. The pulse temporarily extinguishes the H-burning shell.
 
 ### Third Dredge-Up 
 
 As the pulse subsides, the energy released by the He flash drives the envelope outward. The expansion and cooling of the outer layers eventually allow the convective envelope to penetrate inward into material that has been processed during the pulse. Material from the He-intershell—including newly synthesised $^{12}\mathrm{C}$, $^{16}\mathrm{O}$, and products of neutron-capture nucleosynthesis—is transported into the convective envelope and can subsequently appear at the stellar surface. The third dredge-up therefore provides the critical connection between nucleosynthesis in the interior and observable surface abundances.
+
+#### The $^{13}\mathrm{C}$ pocket
 
 **The $^{13}\mathrm{C}$ pocket** is formed as a consequence of the third dredge up. Partial mixing of protons into the $^{12}\mathrm{C}$-rich intershell can produce a $^{13}\mathrm{C}$-rich layer (through $^{12}\mathrm{C}(p,\gamma)^{13}\mathrm{N} \rightarrow ^{13}\mathrm{C}$) which acts as a neutron source through $^{13}\mathrm{C}(\alpha,n)^{16}\mathrm{O}$. The formation and structure of this pocket depend on how mixing is treated at the convective boundary. In sufficiently massive AGB stars, the base of the envelope can become hot enough that protons are burned during dredge-up itself (*hot dredge-up*) which inhibits the formation of a $^{13}\mathrm{C}$ pocket.
 
@@ -71,27 +65,7 @@ There is one additional process that becomes important toward the higher-mass en
 
 ### Summary 
 
-The cycle therefore becomes:
-
-$$
-\boxed{\text{Stable H-shell burning}}
-\rightarrow
-\boxed{\text{He accumulation leads to He-shell instability}}
-\rightarrow
-\boxed{\text{thermal pulse}}
-\rightarrow
-\boxed{\text{pulse-driven convection}}
-\rightarrow
-\boxed{\text{third dredge-up}}
-\rightarrow
-\boxed{\text{interpulse H burning}}
-\rightarrow
-\boxed{\text{repeat}}
-$$
-
-Importantly, *the cycle is not identical from pulse to pulse*. The core mass, envelope mass, temperature, composition, and mass-loss rate all evolve throughout the TP-AGB. One of the key features of this whole process is that **these cycles repeat many times**. The number of pulses a star experiences, the strength of those pulses, the efficiency of third dredge-up, whether a \(^{13}\mathrm{C}\) pocket forms, and whether HBB operates all depend on the stellar properties. At the same time, the envelope is being progressively removed by stellar winds. The nucleosynthetic products are therefore being *processed, mixed, and ejected repeatedly throughout the AGB*, rather than only at the very end of the star's life.
-
-The next question is, *how do initial mass and metallicity determine which of these processes dominates?*
+Importantly, *the cycle is not identical from pulse to pulse*. The core mass, envelope mass, temperature, composition, and mass-loss rate all evolve throughout the TP-AGB. One of the key features of this whole process is that **these cycles repeat many times**. The number of pulses a star experiences, the strength of those pulses, the efficiency of third dredge-up, whether a \(^{13}\mathrm{C}\) pocket forms, and whether HBB operates all depend on the stellar properties. At the same time, the envelope is being progressively removed by stellar winds. The nucleosynthetic products are therefore being *processed, mixed, and ejected repeatedly throughout the AGB*, rather than only at the very end of the star's life. The next question is, *how do initial mass and metallicity determine which of these processes dominates?*
 
 ---
 
