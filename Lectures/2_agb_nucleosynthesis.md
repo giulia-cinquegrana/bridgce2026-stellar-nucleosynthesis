@@ -22,9 +22,12 @@ By the time a star reaches the AGB, it has exhausted its central reserves of hyd
 
 The result is the characteristic double-shell structure of the AGB; an inactive, degenerate carbon–oxygen core, surrounded by a helium-burning shell and a hydrogen-burning shell. Between the two burning shells is the He-intershell, a thin region whose composition will become particularly important for the nucleosynthesis we discuss later. Outside the burning shells is a large, convective envelope. By this stage, the star has expanded enormously, with a cool, extended envelope surrounding the compact core.
 
-<p align="center">
+<figure align="center">
   <img src="../.agb_dawesreview.png" width="600">
-</p>
+  <figcaption>
+    <sub><em>AGB structure, based on Figure 14 from Karakas & Lattanzio (2014).</em></sub>
+  </figcaption>
+</figure>
 	​
 This gives us the basic architecture we need: multiple nuclear-burning sites, a chemically important intershell region, and a large convective envelope surrounding them. The star also undergoes increasingly strong mass loss during this phase, progressively eroding the envelope and eventually exposing the compact remnant. The loss of the envelope marks the end of the AGB, leaving behind a C–O white dwarf in the case of stars that do not proceed to more advanced burning.
 
