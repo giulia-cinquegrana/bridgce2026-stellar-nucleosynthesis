@@ -41,32 +41,32 @@ But this picture is still static. As the star evolves along the AGB, the structu
 
 The defining feature of the thermally pulsing AGB is that the two burning shells do not operate in a steady state. Instead, the star undergoes repeated cycles of **He-shell instability, thermal pulses, envelope expansion, dredge-up, and renewed shell burning**.
 
-- **The early AGB**: After helium-shell burning is established on the early AGB, the H-burning shell continues to deposit helium ash onto the He-burning shell. The He-rich layer therefore becomes progressively more massive and compressed. As the He-burning shell becomes geometrically thinner, it becomes increasingly susceptible to the *thin-shell instability* (see derivation *here*). In a sufficiently thin shell, expansion does not provide the usual stabilising feedback: the shell cannot expand enough to reduce its temperature and hence its nuclear energy generation. The result is a thermonuclear runaway, or *thermal pulse*.
+- **The early AGB**: After helium-shell burning is established on the early AGB, the H-burning shell continues to deposit helium ash onto the He-burning shell. The He-rich layer therefore becomes progressively more massive and compressed. As the He-burning shell becomes geometrically thinner, it becomes increasingly susceptible to the *thin-shell instability* (see derivation *here*). 
+    - In a sufficiently thin shell, expansion does not provide the usual stabilising feedback: the shell cannot expand enough to reduce its temperature and hence its nuclear energy generation. The result is a thermonuclear runaway, or *thermal pulse*.
 
-- **The thermal pulse**: The temperature in the He-burning shell rises rapidly, causing the helium-burning rate to increase sharply through the triple-α reaction,
+- **Thermal pulse (TP)**: The temperature in the He-burning shell rises rapidly, causing the helium-burning rate to increase sharply through the triple-α reaction,
 
 $$
 3 ^4\mathrm{He}\rightarrow{}^{12}\mathrm{C}.
 $$
 
-- The enormous increase in energy generation drives a **pulse-driven convective zone** through the He-intershell, between the He- and H-burning shells. This region becomes strongly mixed, homogenising the material that has accumulated and been processed in the intershell. The pulse temporarily extinguishes the H-burning shell.
+    - The enormous increase in energy generation drives a *pulse-driven convective zone* through the He-intershell, between the He- and H-burning shells. This region becomes strongly mixed, homogenising the material that has accumulated and been processed in the intershell. The pulse temporarily extinguishes the H-burning shell.
 
-- **Expansion and third dredge-up**: As the pulse subsides, the energy released by the He flash drives the envelope outward. The expansion and cooling of the outer layers eventually allow the convective envelope to penetrate inward into material that has been processed during the pulse. This is known as the *third dredge-up*. Material from the He-intershell—including newly synthesised $^{12}\mathrm{C}$, $^{16}\mathrm{O}$, and products of neutron-capture nucleosynthesis—is transported into the convective envelope and can subsequently appear at the stellar surface. The third dredge-up therefore provides the critical connection between nucleosynthesis in the interior and observable surface abundances.
+- **Third Dredge-Up (TDU)**: As the pulse subsides, the energy released by the He flash drives the envelope outward. The expansion and cooling of the outer layers eventually allow the convective envelope to penetrate inward into material that has been processed during the pulse. Material from the He-intershell—including newly synthesised $^{12}\mathrm{C}$, $^{16}\mathrm{O}$, and products of neutron-capture nucleosynthesis—is transported into the convective envelope and can subsequently appear at the stellar surface. The third dredge-up therefore provides the critical connection between nucleosynthesis in the interior and observable surface abundances.
 
-    - There is also an important connection to the **$^{13}\mathrm{C}$ pocket**. Following dredge-up, partial mixing of protons into the $^{12}\mathrm{C}$-rich intershell can produce a $^{13}\mathrm{C}$-rich layer (through $^{12}\mathrm{C}(p,\gamma)^{13}\mathrm{N} \rightarrow ^{13}\mathrm{C}$) which can subsequently act as a neutron source through $^{13}\mathrm{C}(\alpha,n)^{16}\mathrm{O}$. The formation and structure of this pocket depend on how mixing is treated at the convective boundary. In sufficiently massive AGB stars, the base of the envelope can become hot enough that protons are burned during dredge-up itself—so-called **hot dredge-up**—which can inhibit the formation of a \(^{13}\mathrm{C}\) pocket.
+    - **The $^{13}\mathrm{C}$ pocket** is formed as a consequence of the third dredge up. Partial mixing of protons into the $^{12}\mathrm{C}$-rich intershell can produce a $^{13}\mathrm{C}$-rich layer (through $^{12}\mathrm{C}(p,\gamma)^{13}\mathrm{N} \rightarrow ^{13}\mathrm{C}$) which acts as a neutron source through $^{13}\mathrm{C}(\alpha,n)^{16}\mathrm{O}$. 
+    - The formation and structure of this pocket depend on how mixing is treated at the convective boundary. In sufficiently massive AGB stars, the base of the envelope can become hot enough that protons are burned during dredge-up itself (*hot dredge-up*) which inhibits the formation of a $^{13}\mathrm{C}$ pocket.
 
-- **The interpulse phase**: After the thermal pulse, the star relaxes back toward its quiescent configuration. The convective envelope retreats, the H-burning shell is re-established, and the star enters the **interpulse phase**. This is the longest part of the TP-AGB cycle. Hydrogen burns steadily, depositing fresh helium onto the intershell. As the He-rich layer grows, the pressure and temperature at its base increase until the thin-shell instability is triggered again.
+- **Interpulse**: After the thermal pulse, the star relaxes back toward its quiescent configuration. The convective envelope retreats, the H-burning shell is re-established, and the star enters the **interpulse phase**. This is the longest part of the TP-AGB cycle. Hydrogen burns steadily, depositing fresh helium onto the intershell. As the He-rich layer grows, the pressure and temperature at its base increase until the thin-shell instability is triggered again.
 
-- There is one additional process that becomes important toward the higher-mass end of the AGB. In sufficiently massive stars, the base of the convective envelope becomes hot enough for hydrogen burning to occur *within the convective envelope itself*. This is **hot-bottom burning** (HBB). The material at the base of the envelope is repeatedly cycled through this hot region, allowing proton-capture reactions to modify the envelope composition. Depending on the temperature, this can activate the CNO cycles and, at higher temperatures, the Ne--Na and Mg--Al chains. HBB can therefore strongly enhance nitrogen and alter the abundances of Na, Mg, and Al, while simultaneously preventing the envelope from becoming carbon-rich despite continued third dredge-up.
+- **Hot-Bottom Burning (HBB)** There is one additional process that becomes important toward the higher-mass end of the AGB. In sufficiently massive stars, the base of the convective envelope becomes hot enough for hydrogen burning to occur *within the convective envelope itself*. The material at the base of the envelope is repeatedly cycled through this hot region, allowing proton-capture reactions to modify the envelope composition. Depending on the temperature, this can activate the CNO cycles and, at higher temperatures, the Ne--Na and Mg--Al chains. HBB can therefore strongly enhance nitrogen and alter the abundances of Na, Mg, and Al, while simultaneously preventing the envelope from becoming carbon-rich despite continued third dredge-up.
 
 The cycle therefore becomes:
 
 $$
-\boxed{\text{H-shell burning}}
+\boxed{\text{Stable H-shell burning}}
 \rightarrow
-\boxed{\text{He accumulation}}
-\rightarrow
-\boxed{\text{He-shell instability}}
+\boxed{\text{He accumulation leads to He-shell instability}}
 \rightarrow
 \boxed{\text{thermal pulse}}
 \rightarrow
