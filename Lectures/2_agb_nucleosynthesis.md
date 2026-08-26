@@ -58,25 +58,21 @@ $$
 The cycle therefore becomes:
 
 $$
-\boxed{
-\begin{array}{c}
-\text{H-shell burning}\\
-\downarrow\\
-\text{He accumulation}\\
-\downarrow\\
-\text{He-shell instability}\\
-\downarrow\\
-\text{thermal pulse}\\
-\downarrow\\
-\text{pulse-driven convection}\\
-\downarrow\\
-\text{third dredge-up}\\
-\downarrow\\
-\text{interpulse H burning}\\
-\downarrow\\
-\text{repeat}
-\end{array}
-}
+\boxed{\text{H-shell burning}}
+\rightarrow
+\boxed{\text{He accumulation}}
+\rightarrow
+\boxed{\text{He-shell instability}}
+\rightarrow
+\boxed{\text{thermal pulse}}
+\rightarrow
+\boxed{\text{pulse-driven convection}}
+\rightarrow
+\boxed{\text{third dredge-up}}
+\rightarrow
+\boxed{\text{interpulse H burning}}
+\rightarrow
+\boxed{\text{repeat}}
 $$
 
 Importantly, *the cycle is not identical from pulse to pulse*. The core mass, envelope mass, temperature, composition, and mass-loss rate all evolve throughout the TP-AGB. One of the key features of this whole process is that **these cycles repeat many times**. The number of pulses a star experiences, the strength of those pulses, the efficiency of third dredge-up, whether a \(^{13}\mathrm{C}\) pocket forms, and whether HBB operates all depend on the stellar properties. At the same time, the envelope is being progressively removed by stellar winds. The nucleosynthetic products are therefore being *processed, mixed, and ejected repeatedly throughout the AGB*, rather than only at the very end of the star's life.
