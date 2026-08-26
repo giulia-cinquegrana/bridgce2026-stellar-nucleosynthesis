@@ -42,14 +42,14 @@ The defining feature of the thermally pulsing AGB is that the two burning shells
 - **The thermal pulse**: The temperature in the He-burning shell rises rapidly, causing the helium-burning rate to increase sharply through the triple-α reaction,
 
 $$
-3\,^4\mathrm{He}\rightarrow{}^{12}\mathrm{C}.
+3 ^4\mathrm{He}\rightarrow{}^{12}\mathrm{C}.
 $$
 
-The enormous increase in energy generation drives a *pulse-driven convective zone* through the He-intershell, between the He- and H-burning shells. This region becomes strongly mixed, homogenising the material that has accumulated and been processed in the intershell. The pulse temporarily extinguishes the H-burning shell.
+- The enormous increase in energy generation drives a **pulse-driven convective zone** through the He-intershell, between the He- and H-burning shells. This region becomes strongly mixed, homogenising the material that has accumulated and been processed in the intershell. The pulse temporarily extinguishes the H-burning shell.
 
-- **Expansion and third dredge-up**: As the pulse subsides, the energy released by the He flash drives the envelope outward. The expansion and cooling of the outer layers eventually allow the convective envelope to penetrate inward into material that has been processed during the pulse. This is known as the *third dredge-up*. Material from the He-intershell—including newly synthesised \(^{12}\mathrm{C}\), \(^{16}\mathrm{O}\), and products of neutron-capture nucleosynthesis—is transported into the convective envelope and can subsequently appear at the stellar surface. The third dredge-up therefore provides the critical connection between nucleosynthesis in the interior and observable surface abundances.
+- **Expansion and third dredge-up**: As the pulse subsides, the energy released by the He flash drives the envelope outward. The expansion and cooling of the outer layers eventually allow the convective envelope to penetrate inward into material that has been processed during the pulse. This is known as the *third dredge-up*. Material from the He-intershell—including newly synthesised $^{12}\mathrm{C}$, $^{16}\mathrm{O}$, and products of neutron-capture nucleosynthesis—is transported into the convective envelope and can subsequently appear at the stellar surface. The third dredge-up therefore provides the critical connection between nucleosynthesis in the interior and observable surface abundances.
 
-    - There is also an important connection to the **\(^{13}\mathrm{C}\) pocket**. Following dredge-up, partial mixing of protons into the \(^{12}\mathrm{C}\)-rich intershell can produce a \(^{13}\mathrm{C}\)-rich layer,
+    - There is also an important connection to the **$^{13}\mathrm{C}$ pocket**. Following dredge-up, partial mixing of protons into the $^{12}\mathrm{C}$-rich intershell can produce a $^{13}\mathrm{C}$-rich layer,
 
     $$
     ^{12}\mathrm{C}(p,\gamma)^{13}\mathrm{N}
