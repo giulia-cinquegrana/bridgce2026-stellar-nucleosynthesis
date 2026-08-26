@@ -62,30 +62,33 @@ Importantly, the cycle evolves from pulse to pulse as the core and envelope mass
 
 ## How Mass and Metallicity Shape AGB Nucleosynthesis
 
-So far, we've looked at the AGB star as a physical system: a degenerate core, two burning shells, a convective envelope, and a sequence of thermal pulses and mixing episodes. But this picture is not the same for every AGB star. What actually comes out of an AGB star can be very different depending on where the star sits in initial mass and metallicity space. These parameters determine the stellar structure and evolutionary timescales, which in turn determine the temperatures and densities reached in the burning regions, the efficiency of mixing, and how long the star has to lose its envelope.
+So far, we've looked at the AGB as a physical system, but this picture is not the same for every star. What an AGB star ultimately produces depends strongly on its initial mass and metallicity. These properties shape the stellar structure and evolutionary timescales, which in turn determine the temperatures and densities reached in the burning regions, the efficiency of mixing, and the time available for envelope loss.
 
-### Mass
+#### Mass
 
-Initial mass provides the other major axis of the AGB nucleosynthesis landscape. The most important consequence of increasing mass is that the star develops a more massive core and reaches higher temperatures in its interior. This changes which nuclear-burning regimes become accessible. A more massive star has a stronger gravitational potential and develops higher pressures and temperatures in its interior. This means that increasing the initial mass can move the star across thresholds for different nuclear reactions.
+Initial mass provides the first major axis of the AGB nucleosynthesis landscape. As the initial mass increases, stars develop more massive cores and reach higher pressures and temperatures in their interiors. This allows progressively hotter nuclear-burning regimes to operate.
 
-For AGB stars, this is particularly important for the temperature at the base of the convective envelope. As the stellar mass increases, the base of the envelope becomes progressively hotter, eventually reaching the temperatures required for **hot-bottom burning**. At solar metallicity, HBB typically begins around the intermediate-mass regime, although the precise mass threshold is model dependent. At a fixed mass, decreasing metallicity generally produces higher temperatures at the base of the envelope and therefore makes HBB easier to activate. Once HBB is operating, the nucleosynthetic regime changes fundamentally. Instead of relying primarily on material being transported from the He-intershell to the surface, nuclear processing occurs directly at the base of the convective envelope. Depending on the temperature, this can activate the CNO cycles and the Ne--Na and Mg--Al chains, strongly affecting the abundances of C, N, O, Na, Mg and Al.
+For AGB stars, the most important consequence is the temperature reached at the base of the convective envelope. As stellar mass increases, this region becomes hotter and can eventually reach the temperatures required for HBB. At solar metallicity, HBB typically becomes important in the intermediate-mass regime, although the precise mass threshold is model dependent. At fixed mass, lower metallicity generally produces higher temperatures at the base of the envelope, making HBB easier to activate.
 
-Mass also affects the efficiency of third dredge-up. In general, TDU becomes more efficient with increasing stellar mass and decreasing metallicity, although the precise behaviour depends on the stellar evolution model and its treatment of convective boundaries. This gives us a useful first-order picture:
+Once HBB operates, nuclear processing occurs directly within the convective envelope rather than being confined to the He-intershell. Depending on the temperature, the CNO cycles and the Ne--Na and Mg--Al chains become active, strongly modifying the abundances of C, N, O, Na, Mg, and Al.
+
+Mass also affects the efficiency of **third dredge-up (TDU)**, which generally becomes more efficient with increasing mass, although the exact behaviour depends on the stellar model and its treatment of convective boundaries. This gives us a useful first-order picture:
 
 $$
 \boxed{
 \begin{array}{ccc}
 \text{Low mass}
 &\longrightarrow&
-\text{cooler envelopes, TDU, }^{13}\mathrm C\text{ neutron source}
-\\[0.5em]
+\text{cooler envelopes, TDU, }^{13}\mathrm{C}\text{ neutron source}
+\\\\[0.5em]
 \text{Intermediate mass}
 &\longrightarrow&
 \text{hotter envelopes, HBB, }^{22}\mathrm{Ne}\text{ neutron source}
-\end{array}}
+\end{array}
+}
 $$
 
-with metallicity shifting the boundaries between these regimes. This is why there is no single nucleosynthetic signature for an AGB star. *Mass and metallicity determine which physical processes are available, how efficiently they operate, and whether their products ultimately reach the surface and are ejected.* And this gives us the framework for the rest of the lecture: rather than treating all AGB stars as one nucleosynthetic site, we can now move through the mass--metallicity plane and ask which processes dominate in each regime.
+Metallicity then shifts the boundaries between these regimes. There is therefore no single nucleosynthetic signature for an AGB star: **mass and metallicity determine which physical processes operate, how efficiently they operate, and whether their products ultimately reach the surface and are ejected.**
 
 ### Metallicity
 
