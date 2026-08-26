@@ -46,17 +46,13 @@ As the He-burning shell becomes unstable, its temperature rises rapidly. The tri
 
 As the pulse subsides, the energy released by the He flash drives the envelope outward. The resulting expansion and cooling allow the convective envelope to move inwards into material processed during the pulse. Material from the He-intershell, including newly synthesised \(^{12}\mathrm{C}\), \(^{16}\mathrm{O}\), and products of neutron-capture nucleosynthesis, is then mixed into the envelope and transported to the stellar surface. The **third dredge-up** therefore provides the principal link between nucleosynthesis in the interior and the abundance patterns observed at the surface.
 
-#### The \(^{13}\mathrm{C}\) pocket
-
-Following third dredge-up, partial mixing of protons into the $^{12}\mathrm{C}$-rich intershell can produce a $^{13}\mathrm{C}$-rich layer through $^{12}\mathrm{C}(p,\gamma)^{13}\mathrm{N} \rightarrow ^{13}\mathrm{C}$. This **\(^{13}\mathrm{C}\) pocket** can subsequently act as a neutron source through $^{13}\mathrm{C}(\alpha,n)^{16}\mathrm{O}$. Its formation and structure depend on the treatment of mixing at the convective boundary and therefore represent an important uncertainty in AGB nucleosynthesis.
+- **$^{13}\mathrm{C}$ pocket**: Following third dredge-up, partial mixing of protons into the $^{12}\mathrm{C}$-rich intershell can produce a $^{13}\mathrm{C}$-rich layer through $^{12}\mathrm{C}(p,\gamma)^{13}\mathrm{N} \rightarrow ^{13}\mathrm{C}$. This **\(^{13}\mathrm{C}\) pocket** can subsequently act as a neutron source through $^{13}\mathrm{C}(\alpha,n)^{16}\mathrm{O}$. Its formation and structure depend on the treatment of mixing at the convective boundary and therefore represent an important uncertainty in AGB nucleosynthesis.
 
 ### Interpulse Phase
 
 After the thermal pulse, the star relaxes back toward its quiescent configuration. The convective envelope retreats, the H-burning shell is re-established, and the star enters the **interpulse phase**. This is the longest part of the TP-AGB cycle. Hydrogen burns steadily, depositing fresh helium onto the intershell. As the He-rich layer grows, the pressure and temperature at its base increase until the thin-shell instability is triggered again.
 
-#### Hot-Bottom Burning 
-
-There is one additional process that becomes important toward the higher-mass end of the AGB. In sufficiently massive stars, the base of the convective envelope can become hot enough for hydrogen burning to occur *within the convective envelope itself*. The material at the base of the envelope is repeatedly cycled through this hot region, allowing proton-capture reactions to modify the envelope composition. Depending on the temperature, this can activate the CNO cycles and, at higher temperatures, the Ne--Na and Mg--Al chains. HBB can therefore strongly enhance nitrogen and alter the abundances of Na, Mg, and Al, while simultaneously preventing the envelope from becoming carbon-rich despite continued third dredge-up events.
+- **Hot-Bottom Burning**: There is one additional process that becomes important toward the higher-mass end of the AGB. In sufficiently massive stars, the base of the convective envelope can become hot enough for hydrogen burning to occur *within the convective envelope itself*. The material at the base of the envelope is repeatedly cycled through this hot region, allowing proton-capture reactions to modify the envelope composition. Depending on the temperature, this can activate the CNO cycles and, at higher temperatures, the Ne--Na and Mg--Al chains. HBB can therefore strongly enhance nitrogen and alter the abundances of Na, Mg, and Al, while simultaneously preventing the envelope from becoming carbon-rich despite continued third dredge-up events.
 
 ### Summary 
 
