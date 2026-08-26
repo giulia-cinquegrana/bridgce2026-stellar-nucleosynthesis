@@ -16,38 +16,53 @@ This afternoon we will follow the journey of material through an AGB star: where
 
 ## What is an AGB star?
 
-The AGB is one of the last major stages of nuclear burning in the evolution of low- and intermediate-mass stars ($\approx 1 -- 8 \rm M_\odot$; the exact mass range depends on metallicity). Stars enter the early AGB after exhausting their central helium. They are left with a degenerate carbon–oxygen core that, despite continued contraction, never reaches the conditions required for central carbon ignition. Instead, helium burning shifts to a shell surrounding the C–O core, while hydrogen burning continues in a shell further out. Outside the two burning shells is a large, convective envelope. By this stage, the star has expanded into a cool giant, leaving the envelope only weakly bound to the compact core. Strong stellar winds progressively erode the envelope until it is eventually lost, leaving only the compact remnant.
+The AGB is one of the last major stages of nuclear burning in the evolution of low- and intermediate-mass stars ($\approx 1 - 8\, \rm M_\odot$; the exact mass range depends on metallicity). 
 
 <p align="center">
   <img src="../.agb_dawesreview.png" width="600">
   <br>
   <em>AGB structure, based on Figure 14 from Karakas & Lattanzio (2014).</em>
 </p>
-	
 
-For sufficiently massive AGB stars, the helium-burning shell eventually becomes thermally unstable. The star then enters the **thermally pulsing AGB (TP-AGB)**, characterised by periodic thermonuclear runaways in the helium shell followed by convective mixing episodes driven by the energy released in the pulses. This combination of **nuclear burning, mixing, and mass loss** produces the rich abundance patterns associated with AGB stars. This thermally pulsing stage is what we'll examine next.
+Stars enter the early AGB after exhausting their central helium. They are left with a degenerate carbon–oxygen core that, despite continued contraction, never reaches the conditions required for central carbon ignition. Instead, helium burning shifts to a shell surrounding the C–O core, while hydrogen burning continues in a shell further out. The star has expanded into a cool giant by this stage, with a large convective envelope surrounding the burning shells. The extended envelope is only weakly bound to the core, and stellar winds progressively erode it until the compact remnant is eventually exposed.
+
+For sufficiently massive AGB stars, the helium-burning shell eventually becomes thermally unstable. This marks the transition from the early AGB to the thermally pulsing AGB (TP-AGB), characterised by periodic thermonuclear runaway events in the helium-burning shell.
 
 ---
 
 ## The Thermally Pulsing AGB Engine
 
-The defining feature of the thermally pulsing AGB is that the two burning shells do not operate in a steady state. Instead, the star undergoes repeated cycles of **He-shell instability, thermal pulses, envelope expansion, dredge-up, and renewed shell burning**.
+The TP-AGB is not a steady-burning phase. Instead, the star undergoes repeated cycles of **He-shell instability, thermal pulses, envelope expansion, dredge-up, and renewed shell burning**.
 
 ### The Early AGB
 
-After helium-shell burning is established on the early AGB, the H-burning shell continues to deposit helium ash onto the He-burning shell. The He-rich layer therefore becomes progressively more massive and compressed. As the He-burning shell becomes geometrically thinner, it becomes increasingly susceptible to the *thin-shell instability* (see derivation *here*). In a sufficiently thin shell, expansion does not provide the usual stabilising feedback: the shell cannot expand enough to reduce its temperature and hence its nuclear energy generation. The result is a thermonuclear runaway, or *thermal pulse*.
+While the He-burning shell is established after core He exhaustion, the H-burning shell continues to deposit ash onto the layer above it, progressively increasing the pressure on the He-burning shell. As the He shell burns through this material and becomes geometrically thinner, it becomes increasingly susceptible to the thin-shell instability. The shell cannot expand sufficiently to provide the usual stabilising feedback—a drop in temperature—so the nuclear energy generation rate continues to rise. This eventually triggers a thermonuclear runaway, or thermal pulse.
 
 ### The Thermal Pulse 
 
-Temperatures in the He-burning shell rise rapidly, causing the helium-burning rate to increase sharply through the triple-α reaction. The enormous increase in energy generation drives a *pulse-driven convective zone* through the He-intershell, between the He- and H-burning shells. This region becomes strongly mixed, homogenising the material that has accumulated and been processed in the intershell. The pulse temporarily extinguishes the H-burning shell.
+As the He-burning shell becomes unstable, its temperature rises rapidly. The triple-$\alpha$ reaction is extremely temperature sensitive, so even a modest increase in temperature produces a sharp increase in the helium-burning rate and hence the energy generation. This rapid energy release drives a **pulse-driven convective zone** throughout the He-intershell, rapidly mixing and homogenising the material accumulated there. The energy released by the pulse also temporarily extinguishes the H-burning shell.
 
 ### Third Dredge-Up 
 
-As the pulse subsides, the energy released by the He flash drives the envelope outward. The expansion and cooling of the outer layers eventually allow the convective envelope to penetrate inward into material that has been processed during the pulse. Material from the He-intershell—including newly synthesised $^{12}\mathrm{C}$, $^{16}\mathrm{O}$, and products of neutron-capture nucleosynthesis—is transported into the convective envelope and can subsequently appear at the stellar surface. The third dredge-up therefore provides the critical connection between nucleosynthesis in the interior and observable surface abundances.
+As the pulse subsides, the energy released by the He flash drives the envelope outward. The resulting expansion and cooling allow the convective envelope to move inwards into material processed during the pulse. Material from the He-intershell, including newly synthesised \(^{12}\mathrm{C}\), \(^{16}\mathrm{O}\), and products of neutron-capture nucleosynthesis, is then mixed into the envelope and transported to the stellar surface. The **third dredge-up** therefore provides the principal link between nucleosynthesis in the interior and the abundance patterns observed at the surface.
 
-#### The $^{13}\mathrm{C}$ pocket
+**#### The \(^{13}\mathrm{C}\) pocket**
 
-**The $^{13}\mathrm{C}$ pocket** is formed as a consequence of the third dredge up. Partial mixing of protons into the $^{12}\mathrm{C}$-rich intershell can produce a $^{13}\mathrm{C}$-rich layer (through $^{12}\mathrm{C}(p,\gamma)^{13}\mathrm{N} \rightarrow ^{13}\mathrm{C}$) which acts as a neutron source through $^{13}\mathrm{C}(\alpha,n)^{16}\mathrm{O}$. The formation and structure of this pocket depend on how mixing is treated at the convective boundary. In sufficiently massive AGB stars, the base of the envelope can become hot enough that protons are burned during dredge-up itself (*hot dredge-up*) which inhibits the formation of a $^{13}\mathrm{C}$ pocket.
+Following third dredge-up, partial mixing of protons into the \(^{12}\mathrm{C}\)-rich intershell can produce a \(^{13}\mathrm{C}\)-rich layer through
+
+$$
+^{12}\mathrm{C}(p,\gamma)^{13}\mathrm{N}
+\rightarrow
+^{13}\mathrm{C}.
+$$
+
+This **\(^{13}\mathrm{C}\) pocket** can subsequently act as a neutron source through
+
+$$
+^{13}\mathrm{C}(\alpha,n)^{16}\mathrm{O}.
+$$
+
+Its formation and structure depend on the treatment of mixing at the convective boundary and therefore represent an important uncertainty in AGB nucleosynthesis.
 
 ### Interpulse Phase
 
@@ -55,7 +70,7 @@ After the thermal pulse, the star relaxes back toward its quiescent configuratio
 
 #### Hot-Bottom Burning 
 
-There is one additional process that becomes important toward the higher-mass end of the AGB. In sufficiently massive stars, the base of the convective envelope becomes hot enough for hydrogen burning to occur *within the convective envelope itself*. The material at the base of the envelope is repeatedly cycled through this hot region, allowing proton-capture reactions to modify the envelope composition. Depending on the temperature, this can activate the CNO cycles and, at higher temperatures, the Ne--Na and Mg--Al chains. HBB can therefore strongly enhance nitrogen and alter the abundances of Na, Mg, and Al, while simultaneously preventing the envelope from becoming carbon-rich despite continued third dredge-up.
+There is one additional process that becomes important toward the higher-mass end of the AGB. In sufficiently massive stars, the base of the convective envelope can become hot enough for hydrogen burning to occur *within the convective envelope itself*. The material at the base of the envelope is repeatedly cycled through this hot region, allowing proton-capture reactions to modify the envelope composition. Depending on the temperature, this can activate the CNO cycles and, at higher temperatures, the Ne--Na and Mg--Al chains. HBB can therefore strongly enhance nitrogen and alter the abundances of Na, Mg, and Al, while simultaneously preventing the envelope from becoming carbon-rich despite continued third dredge-up events.
 
 ### Summary 
 
