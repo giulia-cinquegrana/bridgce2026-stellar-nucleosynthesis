@@ -1,3 +1,5 @@
+![](../.bridgce.png)
+
 # Nucleosynthesis in Asymptotic Giant Branch Stars
 
 ## Introduction [2 mins]
