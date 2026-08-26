@@ -109,45 +109,27 @@ Metallicity affects AGB nucleosynthesis in two distinct ways. First, it changes 
 
     where $\kappa$ is the opacity. Increasing the opacity increases the radiative temperature gradient required to transport the stellar luminosity. At a given mass and luminosity, metal-rich stars consequently tend to have more extended, less compact envelopes and cooler surface temperatures than their metal-poor counterparts. This structural difference then feeds directly into the AGB nucleosynthesis: the envelope structure determines the temperatures reached at its base, the efficiency of mixing, and ultimately whether processes such as hot-bottom burning can operate.
 
-#### Mean molecular weight
+- **Mean molecular weight**: Metallicity is also accompanied by changes in the initial helium abundance, and therefore in the **mean molecular weight** of the stellar gas. For an ideal gas,
 
-Metallicity is also accompanied by changes in the initial helium abundance, and therefore in the **mean molecular weight** of the stellar gas. For an ideal gas,
+    $P \propto \frac{\rho T}{\mu}.$
 
-$$
-P \propto \frac{\rho T}{\mu},
-$$
+    So increasing the mean molecular weight changes the temperature required to provide pressure support. In our very metal-rich models, the increase in $\mu$ can become sufficiently important that it offsets some of the structural effects of increasing opacity, producing hotter and more luminous main-sequence models at the highest metallicities ($\rm [Fe/H] > +0.5$).
 
-so increasing the mean molecular weight changes the temperature required to provide pressure support. In our very metal-rich models, the increase in \(\mu\) can become sufficiently important that it offsets some of the structural effects of increasing opacity, producing hotter and more luminous main-sequence models at the highest metallicities ($\rm [Fe/H] > +0.5$).
+- This has an important consequence: metallicity does not produce a simple monotonic change in every stellar property. Opacity and mean molecular weight act in opposite directions, and their relative importance changes across the metallicity range.
 
-This has an important consequence: metallicity does not produce a simple monotonic change in every stellar property. Opacity and mean molecular weight act in opposite directions, and their relative importance changes across the metallicity range.
+- **Mass loss**: The structural changes caused by metallicity also affect the star's mass-loss history. Mass loss is particularly important on the AGB because the envelope is the reservoir that connects the interior nucleosynthesis to the interstellar medium. Increasing the mass-loss rate removes the envelope more rapidly, reducing both the duration of the TP-AGB and the number of thermal pulses and dredge-up episodes that can occur.
 
-#### Mass loss
+    At very high metallicity, this effect can become extreme. In our models, sufficiently strong early-AGB mass loss can remove the envelope before the star even reaches the thermally pulsing phase. For models that do reach the TP-AGB, increasing metallicity generally results in fewer thermal pulses and less efficient mixing. :contentReference[oaicite:3]{index=3}
 
-The structural changes caused by metallicity also affect the star's mass-loss history.
+    This is important because a nucleosynthetic product only contributes to the stellar yield if it is both **produced and ejected**. A star can therefore undergo nucleosynthesis internally without making a large contribution to the chemical enrichment of the surrounding medium.
 
-Mass loss is particularly important on the AGB because the envelope is the reservoir that connects the interior nucleosynthesis to the interstellar medium. Increasing the mass-loss rate removes the envelope more rapidly, reducing both the duration of the TP-AGB and the number of thermal pulses and dredge-up episodes that can occur.
+- **H-burning lifetimes**: Metallicity changes the timescale over which the star evolves. The effect is mediated in part through the mean molecular weight and the resulting luminosity. At very high metallicity, the increased mean molecular weight can produce hotter, more luminous main-sequence stars, while the initial hydrogen abundance is also reduced. The combination leads to significantly shorter hydrogen-burning lifetimes at the highest metallicities. In our \(Z=0.10\) models, the main-sequence lifetime is approximately half that of the corresponding solar-metallicity model. The exact lifetime is not itself a nucleosynthetic process, but it determines when a population begins returning AGB material to the interstellar medium and therefore matters for chemical-evolution timescales.
 
-At very high metallicity, this effect can become extreme. In our models, sufficiently strong early-AGB mass loss can remove the envelope before the star even reaches the thermally pulsing phase. For models that do reach the TP-AGB, increasing metallicity generally results in fewer thermal pulses and less efficient mixing. :contentReference[oaicite:3]{index=3}
+- **Composition of the nuclear-burning material**: Finally, metallicity changes the *starting composition of the nuclear reactions themselves*. At higher metallicity, the star begins with larger abundances of CNO nuclei and other heavy elements. This matters particularly for proton-capture nucleosynthesis, where many of the nuclei being processed are already present in the initial composition.
 
-This is important because a nucleosynthetic product only contributes to the stellar yield if it is both **produced and ejected**. A star can therefore undergo nucleosynthesis internally without making a large contribution to the chemical enrichment of the surrounding medium.
+    For example, the CNO nuclei act largely as catalysts in the CNO cycle, but their increasing initial abundance means that the resulting abundance changes can be strongly metallicity dependent. In our metal-rich models, this contributes to enhanced production of secondary species such as \(^{14}\mathrm N\), while some initially abundant CNO isotopes experience greater destruction. :contentReference[oaicite:5]{index=5}
 
-#### H-burning lifetimes
-
-Metallicity also changes the timescale over which the star evolves.
-
-The effect is mediated in part through the mean molecular weight and the resulting luminosity. At very high metallicity, the increased mean molecular weight can produce hotter, more luminous main-sequence stars, while the initial hydrogen abundance is also reduced. The combination leads to significantly shorter hydrogen-burning lifetimes at the highest metallicities. In our \(Z=0.10\) models, the main-sequence lifetime is approximately half that of the corresponding solar-metallicity model. :contentReference[oaicite:4]{index=4}
-
-The exact lifetime is not itself a nucleosynthetic process, but it determines when a population begins returning AGB material to the interstellar medium and therefore matters for chemical-evolution timescales.
-
-#### Composition of the nuclear-burning material
-
-Finally, metallicity changes the **starting composition of the nuclear reactions themselves**.
-
-At higher metallicity, the star begins with larger abundances of CNO nuclei and other heavy elements. This matters particularly for proton-capture nucleosynthesis, where many of the nuclei being processed are already present in the initial composition.
-
-For example, the CNO nuclei act largely as catalysts in the CNO cycle, but their increasing initial abundance means that the resulting abundance changes can be strongly metallicity dependent. In our metal-rich models, this contributes to enhanced production of secondary species such as \(^{14}\mathrm N\), while some initially abundant CNO isotopes experience greater destruction. :contentReference[oaicite:5]{index=5}
-
-Metallicity is also fundamental to neutron-capture nucleosynthesis because it changes the abundance of the seed nuclei onto which neutrons are captured. Combined with the metallicity dependence of the neutron sources and dredge-up, this is one reason why the heavy-element nucleosynthesis of AGB stars changes so strongly across the metallicity range.
+    Metallicity is also fundamental to neutron-capture nucleosynthesis because it changes the abundance of the seed nuclei onto which neutrons are captured. Combined with the metallicity dependence of the neutron sources and dredge-up, this is one reason why the heavy-element nucleosynthesis of AGB stars changes so strongly across the metallicity range.
 
 So metallicity affects AGB nucleosynthesis through both **the physics of the star** and **the composition of the material being processed**.
 
