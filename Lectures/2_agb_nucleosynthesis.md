@@ -2,27 +2,29 @@
 
 # Nucleosynthesis in Asymptotic Giant Branch Stars
 
-## Introduction [2 mins]
+## Introduction
 
 Asymptotic Giant Branch stars are important sites for galactic chemical evolution for several reasons.
 
-- *There are many of them.* The AGB is the evolutionary endpoint of a large fraction of stars in the Universe, so AGB stars make a significant cumulative contribution to the chemical enrichment of galaxies.
-- *They provide extended timescales for nucleosynthesis.* Lower-mass stars evolve more slowly than massive stars, and their conditions are particularly well suited to the production of heavy elements through slow and intermediate neutron-capture nucleosynthesis.
-- *They couple nucleosynthesis and mixing.* Nuclear burning and mixing occur in different regions of the star, allowing material produced in the interior to eventually reach the surface.
-- *They experience their strongest mass loss during the AGB.* Their expanded envelopes are progressively removed through powerful stellar winds, returning processed material to the interstellar medium on relatively short timescales.
-- *Their nucleosynthesis is highly sensitive to stellar properties.* Initial mass and metallicity strongly influence the stellar structure, temperatures, mixing, neutron sources, and resulting abundance patterns. Surface abundances can therefore provide clues about the properties of individual stars and stellar populations.
+- **There are many of them:** The AGB is the evolutionary endpoint of a large fraction of stars in the Universe, so AGB stars make a significant cumulative contribution to the chemical enrichment of galaxies.
+- **Low and intermediate mass stars have more time to process material:** Their longer evolutionary timescales allow nucleosynthesis to operate over extended periods, with material repeatedly processed and mixed before it is ultimately returned to the interstellar medium.
+- **AGBs couple nucleosynthesis and mixing:** Nuclear burning and mixing occur in different regions of the star, allowing material produced in the interior to eventually reach the surface.
+- **Low and intermediate mass stars experience their strongest mass loss during the AGB:** Their expanded envelopes are progressively removed through powerful stellar winds, returning processed material to the interstellar medium on relatively short timescales.
+- **AGB nucleosynthesis is highly sensitive to stellar properties:** Initial mass and metallicity strongly influence the stellar structure, temperatures, mixing, neutron sources, and resulting abundance patterns. Surface abundances can therefore provide clues about the properties of individual stars and stellar populations.
 
-So, over the next 30 or so minutes, we'll follow the journey of material through an AGB star: where it is produced, how it is transported to the surface, and how it is ultimately returned to the interstellar medium. Along the way, we'll see how changing mass and metallicity can move a star between very different nucleosynthetic regimes, and how we translate these stellar models into the yields used in chemical-evolution models.
+This afternoon we will follow the journey of material through an AGB star: where it is produced, how it is transported to the surface, and how it is ultimately returned to the interstellar medium. Along the way, we'll see how changing mass and metallicity can move a star between very different nucleosynthetic regimes, and how we translate these stellar models into the yields used in chemical-evolution models.
 
-## What is an AGB star? [2 mins]
+## What is an AGB star?
 
-The AGB is one of the last active burning stages in the evolution of low- and intermediate-mass stars. Broadly, we're talking about stars with initial masses between roughly 1 and 8Msun, although that range depends on metallicity and other aspects of the stellar physics.
+The AGB is one of the last active burning stages in the evolution of low- and intermediate-mass stars. Broadly, we are talking about stars with initial masses between roughly 1 and $8\,\rm M_\odot$, although that range depends on metallicity and other aspects of the stellar physics.
 
 By the time a star reaches the AGB, it has exhausted its central reserves of hydrogen and helium, leaving behind a carbon–oxygen core. As the core contracts, it moves toward the next stage of nuclear burning, but in low- and intermediate-mass stars it never reaches the conditions required for central carbon ignition. Instead, helium burning ignites in a shell surrounding the C–O core, while hydrogen burning continues in another shell further out.
 
-The result is the characteristic double-shell structure of the AGB: an inactive, degenerate carbon–oxygen core, surrounded by a helium-burning shell and a hydrogen-burning shell. Between the two burning shells is the He-intershell, a thin region whose composition will become particularly important for the nucleosynthesis we discuss later. Outside the burning shells is a large, convective envelope. By this stage, the star has expanded enormously, with a cool, extended envelope surrounding the compact core.
+The result is the characteristic double-shell structure of the AGB; an inactive, degenerate carbon–oxygen core, surrounded by a helium-burning shell and a hydrogen-burning shell. Between the two burning shells is the He-intershell, a thin region whose composition will become particularly important for the nucleosynthesis we discuss later. Outside the burning shells is a large, convective envelope. By this stage, the star has expanded enormously, with a cool, extended envelope surrounding the compact core.
 
-<div align="center">
+![](../.agbxstructure.png)
+
+<!-- <div align="center">
 
 | Layer |
 |:---:|
@@ -31,7 +33,7 @@ The result is the characteristic double-shell structure of the AGB: an inactive,
 | **He-burning shell** |
 | **Degenerate C–O core** |
 
-</div>
+</div> -->
 	​
 This gives us the basic architecture we need: multiple nuclear-burning sites, a chemically important intershell region, and a large convective envelope surrounding them. The star also undergoes increasingly strong mass loss during this phase, progressively eroding the envelope and eventually exposing the compact remnant. The loss of the envelope marks the end of the AGB, leaving behind a C–O white dwarf in the case of stars that do not proceed to more advanced burning.
 
