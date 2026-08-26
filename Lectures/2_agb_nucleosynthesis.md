@@ -22,15 +22,16 @@ By the time a star reaches the AGB, it has exhausted its central reserves of hyd
 
 The result is the characteristic double-shell structure of the AGB: an inactive, degenerate carbon–oxygen core, surrounded by a helium-burning shell and a hydrogen-burning shell. Outside these burning shells is a large, convective envelope. By this stage, the star has expanded enormously, with a cool, extended envelope surrounding the compact core.
 
-$$
-\text{Convective envelope}
-\;|\;
-\text{H-burning shell}
-\;|\;
-\text{He-burning shell}
-\;|\;
-\text{Degenerate C--O core}
-$$
+<div align="center">
+
+| Layer |
+|:---:|
+| **Convective envelope** |
+| **H-burning shell** |
+| **He-burning shell** |
+| **Degenerate C–O core** |
+
+</div>
 	​
 This gives us the basic architecture we need: distinct nuclear-burning sites surrounded by a large convective envelope. The star also undergoes increasingly strong mass loss during this phase, progressively eroding the envelope and eventually exposing the compact remnant. The loss of the envelope marks the end of the AGB phase.
 
