@@ -16,22 +16,16 @@ This afternoon we will follow the journey of material through an AGB star: where
 
 ## What is an AGB star?
 
-The AGB is one of the last active burning stages in the evolution of low- and intermediate-mass stars. Broadly, we are talking about stars with initial masses between roughly 1 and $8 \rm M_\odot$, although that range depends on metallicity and other aspects of the stellar physics.
-
-By the time a star reaches the AGB, it has exhausted its central reserves of hydrogen and helium, leaving behind a carbon–oxygen core. As the core contracts, it moves toward the next stage of nuclear burning, but in low- and intermediate-mass stars it never reaches the conditions required for central carbon ignition. Instead, helium burning ignites in a shell surrounding the C–O core, while hydrogen burning continues in another shell further out.
-
-The result is the characteristic double-shell structure of the AGB; an inactive, degenerate carbon–oxygen core, surrounded by a helium-burning shell and a hydrogen-burning shell. Between the two burning shells is the He-intershell, a thin region whose composition will become particularly important for the nucleosynthesis we discuss later. Outside the burning shells is a large, convective envelope. By this stage, the star has expanded enormously, with a cool, extended envelope surrounding the compact core.
+The AGB is one of the last major stages of nuclear burning in the evolution of low- and intermediate-mass stars ($\approx 1 -- 8 \rm M_\odot$; the exact mass range depends on metallicity). Stars enter the early AGB after exhausting their central helium. They are left with a degenerate carbon–oxygen core that, despite continued contraction, never reaches the conditions required for central carbon ignition. Instead, helium burning shifts to a shell surrounding the C–O core, while hydrogen burning continues in a shell further out. Outside the two burning shells is a large, convective envelope. By this stage, the star has expanded into a cool giant, leaving the envelope only weakly bound to the compact core. Strong stellar winds progressively erode the envelope until it is eventually lost, leaving only the compact remnant.
 
 <p align="center">
   <img src="../.agb_dawesreview.png" width="600">
   <br>
   <em>AGB structure, based on Figure 14 from Karakas & Lattanzio (2014).</em>
 </p>
-	​
+	
 
-This gives us the basic architecture we need: multiple nuclear-burning sites, a chemically important intershell region, and a large convective envelope surrounding them. The star also undergoes increasingly strong mass loss during this phase, progressively eroding the envelope and eventually exposing the compact remnant. The loss of the envelope marks the end of the AGB, leaving behind a C–O white dwarf in the case of stars that do not proceed to more advanced burning.
-
-But this picture is still static. As the star evolves along the AGB, the structure of these burning regions changes, and with it the conditions under which nucleosynthesis occurs. So what drives this changing structure, and how does it lead to the repeated episodes of nucleosynthesis that characterise the AGB?
+For sufficiently massive AGB stars, the helium-burning shell eventually becomes thermally unstable. The star then enters the **thermally pulsing AGB (TP-AGB)**, characterised by periodic thermonuclear runaways in the helium shell followed by convective mixing episodes driven by the energy released in the pulses. This combination of **nuclear burning, mixing, and mass loss** produces the rich abundance patterns associated with AGB stars. This thermally pulsing stage is what we'll examine next.
 
 ---
 
