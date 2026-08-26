@@ -49,15 +49,7 @@ $$
 
 - **Expansion and third dredge-up**: As the pulse subsides, the energy released by the He flash drives the envelope outward. The expansion and cooling of the outer layers eventually allow the convective envelope to penetrate inward into material that has been processed during the pulse. This is known as the *third dredge-up*. Material from the He-intershell—including newly synthesised $^{12}\mathrm{C}$, $^{16}\mathrm{O}$, and products of neutron-capture nucleosynthesis—is transported into the convective envelope and can subsequently appear at the stellar surface. The third dredge-up therefore provides the critical connection between nucleosynthesis in the interior and observable surface abundances.
 
-    - There is also an important connection to the **$^{13}\mathrm{C}$ pocket**. Following dredge-up, partial mixing of protons into the $^{12}\mathrm{C}$-rich intershell can produce a $^{13}\mathrm{C}$-rich layer,
-
-    $^{12}\mathrm{C}(p,\gamma)^{13}\mathrm{N} \rightarrow ^{13}\mathrm{C}$
-
-    which can subsequently act as a neutron source through
-
-    $^{13}\mathrm{C}(\alpha,n)^{16}\mathrm{O}.$
-
-    The formation and structure of this pocket depend on how mixing is treated at the convective boundary. In sufficiently massive AGB stars, the base of the envelope can become hot enough that protons are burned during dredge-up itself—so-called **hot dredge-up**—which can inhibit the formation of a \(^{13}\mathrm{C}\) pocket.
+    - There is also an important connection to the **$^{13}\mathrm{C}$ pocket**. Following dredge-up, partial mixing of protons into the $^{12}\mathrm{C}$-rich intershell can produce a $^{13}\mathrm{C}$-rich layer (through $^{12}\mathrm{C}(p,\gamma)^{13}\mathrm{N} \rightarrow ^{13}\mathrm{C}$) which can subsequently act as a neutron source through $^{13}\mathrm{C}(\alpha,n)^{16}\mathrm{O}$. The formation and structure of this pocket depend on how mixing is treated at the convective boundary. In sufficiently massive AGB stars, the base of the envelope can become hot enough that protons are burned during dredge-up itself—so-called **hot dredge-up**—which can inhibit the formation of a \(^{13}\mathrm{C}\) pocket.
 
 - **The interpulse phase**: After the thermal pulse, the star relaxes back toward its quiescent configuration. The convective envelope retreats, the H-burning shell is re-established, and the star enters the **interpulse phase**. This is the longest part of the TP-AGB cycle. Hydrogen burns steadily, depositing fresh helium onto the intershell. As the He-rich layer grows, the pressure and temperature at its base increase until the thin-shell instability is triggered again.
 
