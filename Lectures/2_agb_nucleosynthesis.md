@@ -46,23 +46,9 @@ As the He-burning shell becomes unstable, its temperature rises rapidly. The tri
 
 As the pulse subsides, the energy released by the He flash drives the envelope outward. The resulting expansion and cooling allow the convective envelope to move inwards into material processed during the pulse. Material from the He-intershell, including newly synthesised \(^{12}\mathrm{C}\), \(^{16}\mathrm{O}\), and products of neutron-capture nucleosynthesis, is then mixed into the envelope and transported to the stellar surface. The **third dredge-up** therefore provides the principal link between nucleosynthesis in the interior and the abundance patterns observed at the surface.
 
-**#### The \(^{13}\mathrm{C}\) pocket**
+#### The \(^{13}\mathrm{C}\) pocket
 
-Following third dredge-up, partial mixing of protons into the \(^{12}\mathrm{C}\)-rich intershell can produce a \(^{13}\mathrm{C}\)-rich layer through
-
-$$
-^{12}\mathrm{C}(p,\gamma)^{13}\mathrm{N}
-\rightarrow
-^{13}\mathrm{C}.
-$$
-
-This **\(^{13}\mathrm{C}\) pocket** can subsequently act as a neutron source through
-
-$$
-^{13}\mathrm{C}(\alpha,n)^{16}\mathrm{O}.
-$$
-
-Its formation and structure depend on the treatment of mixing at the convective boundary and therefore represent an important uncertainty in AGB nucleosynthesis.
+Following third dredge-up, partial mixing of protons into the $^{12}\mathrm{C}$-rich intershell can produce a $^{13}\mathrm{C}$-rich layer through $^{12}\mathrm{C}(p,\gamma)^{13}\mathrm{N} \rightarrow ^{13}\mathrm{C}$. This **\(^{13}\mathrm{C}\) pocket** can subsequently act as a neutron source through $^{13}\mathrm{C}(\alpha,n)^{16}\mathrm{O}$. Its formation and structure depend on the treatment of mixing at the convective boundary and therefore represent an important uncertainty in AGB nucleosynthesis.
 
 ### Interpulse Phase
 
