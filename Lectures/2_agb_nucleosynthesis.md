@@ -113,9 +113,7 @@ Metallicity affects AGB nucleosynthesis in two distinct ways. First, it changes 
 
     $P \propto \frac{\rho T}{\mu}.$
 
-    So increasing the mean molecular weight changes the temperature required to provide pressure support. In our very metal-rich models, the increase in $\mu$ can become sufficiently important that it offsets some of the structural effects of increasing opacity, producing hotter and more luminous main-sequence models at the highest metallicities ($\rm [Fe/H] > +0.5$).
-
-- This has an important consequence: metallicity does not produce a simple monotonic change in every stellar property. Opacity and mean molecular weight act in opposite directions, and their relative importance changes across the metallicity range.
+    So increasing the mean molecular weight changes the temperature required to provide pressure support. In our very metal-rich models, the increase in $\mu$ can become sufficiently important that it offsets some of the structural effects of increasing opacity, producing hotter and more luminous main-sequence models at the highest metallicities ($\rm [Fe/H] > +0.5$). This has an important consequence: metallicity does not produce a simple monotonic change in every stellar property. Opacity and mean molecular weight act in opposite directions, and their relative importance changes across the metallicity range.
 
 - **Mass loss**: The structural changes caused by metallicity also affect the star's mass-loss history. Mass loss is particularly important on the AGB because the envelope is the reservoir that connects the interior nucleosynthesis to the interstellar medium. Increasing the mass-loss rate removes the envelope more rapidly, reducing both the duration of the TP-AGB and the number of thermal pulses and dredge-up episodes that can occur.
 
@@ -131,15 +129,9 @@ Metallicity affects AGB nucleosynthesis in two distinct ways. First, it changes 
 
     Metallicity is also fundamental to neutron-capture nucleosynthesis because it changes the abundance of the seed nuclei onto which neutrons are captured. Combined with the metallicity dependence of the neutron sources and dredge-up, this is one reason why the heavy-element nucleosynthesis of AGB stars changes so strongly across the metallicity range.
 
-So metallicity affects AGB nucleosynthesis through both **the physics of the star** and **the composition of the material being processed**.
-
 ### Mass
 
-Initial mass provides the other major axis of the AGB nucleosynthesis landscape.
-
-The most important consequence of increasing mass is that the star develops a more massive core and reaches higher temperatures in its interior. This changes which nuclear-burning regimes become accessible.
-
-#### Pressure and central temperature
+Initial mass provides the other major axis of the AGB nucleosynthesis landscape. The most important consequence of increasing mass is that the star develops a more massive core and reaches higher temperatures in its interior. This changes which nuclear-burning regimes become accessible.
 
 A more massive star has a stronger gravitational potential and develops higher pressures and temperatures in its interior. This means that increasing the initial mass can move the star across thresholds for different nuclear reactions.
 
