@@ -12,7 +12,7 @@ Asymptotic Giant Branch stars are important sites for galactic chemical evolutio
 
 So, over the next 30 or so minutes, we'll follow the journey of material through an AGB star: where it is produced, how it is transported to the surface, and how it is ultimately returned to the interstellar medium. Along the way, we'll see how changing mass and metallicity can move a star between very different nucleosynthetic regimes, and how we translate these stellar models into the yields used in chemical-evolution models.
 
-## What is an AGB star?
+## What is an AGB star? [2 mins]
 
 So, what actually is an AGB star?
 
@@ -20,7 +20,7 @@ The AGB is one of the last active burning stages in the evolution of low- and in
 
 By the time a star reaches the AGB, it has exhausted its central reserves of hydrogen and helium, leaving behind a carbon–oxygen core. As the core contracts, it moves toward the next stage of nuclear burning, but in low- and intermediate-mass stars it never reaches the conditions required for central carbon ignition. Instead, helium burning ignites in a shell surrounding the C–O core, while hydrogen burning continues in another shell further out.
 
-The result is the characteristic double-shell structure of the AGB: an inactive, degenerate carbon–oxygen core, surrounded by a helium-burning shell and a hydrogen-burning shell. Outside these burning shells is a large, convective envelope. By this stage, the star has expanded enormously, with a cool, extended envelope surrounding the compact core.
+The result is the characteristic double-shell structure of the AGB: an inactive, degenerate carbon–oxygen core, surrounded by a helium-burning shell and a hydrogen-burning shell. Between the two burning shells is the He-intershell, a thin region whose composition will become particularly important for the nucleosynthesis we discuss later. Outside the burning shells is a large, convective envelope. By this stage, the star has expanded enormously, with a cool, extended envelope surrounding the compact core.
 
 <div align="center">
 
@@ -33,11 +33,15 @@ The result is the characteristic double-shell structure of the AGB: an inactive,
 
 </div>
 	​
-This gives us the basic architecture we need: distinct nuclear-burning sites surrounded by a large convective envelope. The star also undergoes increasingly strong mass loss during this phase, progressively eroding the envelope and eventually exposing the compact remnant. The loss of the envelope marks the end of the AGB phase.
+This gives us the basic architecture we need: multiple nuclear-burning sites, a chemically important intershell region, and a large convective envelope surrounding them.
 
-But this picture is still static. The key question is what happens to these burning shells as the star evolves *along the AGB*. 
+The star also undergoes increasingly strong mass loss during this phase, progressively eroding the envelope and eventually exposing the compact remnant. The loss of the envelope marks the end of the AGB, leaving behind a C–O white dwarf in the case of stars that do not proceed to more advanced burning.
+
+But this picture is still static. As the star evolves along the AGB, the structure of these burning regions changes, and with it the conditions under which nucleosynthesis occurs. So what drives this changing structure, and how does it lead to the repeated episodes of nucleosynthesis that characterise the AGB?
 
 ## The Thermally Pulsing AGB Engine
+
+### incorcoprate dredge up, hbb into this. 
 
 The defining feature of the AGB is that the two burning shells do not operate in a steady state. Instead, the helium-burning shell becomes thermally unstable, producing a series of **thermal pulses**. The star spends most of its time in a relatively quiescent phase, with energy production dominated by the hydrogen-burning shell. As hydrogen burning converts hydrogen into helium, helium accumulates in the intershell region above the core.
 
@@ -88,22 +92,6 @@ This gives us the basic **engine of AGB nucleosynthesis**:
 ]
 
 The details of this cycle—particularly how efficiently material is dredged up, how hot the burning regions become, and how rapidly the envelope is lost—depend strongly on the star's initial mass and metallicity. Those dependencies are what will ultimately determine which nucleosynthetic processes dominate.
-
-## The AGB Nucleosynthesis Toolkit
-
-Yes. For this section I would **keep it as a toolkit rather than a mini nucleosynthesis lecture**. The audience needs the vocabulary and physical mechanisms that you'll invoke in the mass–metallicity sections later.
-
-One important correction: I would be careful with saying the **second dredge-up is simply "CNO-burning products."** It brings material processed by H burning to the surface, including enhanced He and (^{14}\mathrm N), and reduced (^{12}\mathrm C) and (^{13}\mathrm C); the detailed abundance changes depend on mass and metallicity.
-
-I would cover **five mechanisms**:
-
-1. First dredge-up
-2. Second dredge-up
-3. Third dredge-up
-4. Hot-bottom burning
-5. Extra mixing / proton ingestion as a brief "beyond standard convection" concept
-
-I would **not yet explain the s-, i-, or neutron-capture processes here**. Just establish that third dredge-up can expose neutron-capture products and that HBB activates proton-capture nucleosynthesis. Those get properly unpacked later.
 
 ## The AGB Nucleosynthesis Toolkit
 
