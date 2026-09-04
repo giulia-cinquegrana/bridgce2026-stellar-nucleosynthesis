@@ -9,9 +9,9 @@
 | Time | Item | Materials |
 |------|------|-----------|
 | 14:00–14:15 | Introduction & Context | — |
-| 14:15–14:45 | Lecture: The Nucleosynthesis Landscape | slides, notes |
+| 14:15–14:45 | The Nucleosynthesis Landscape | slides, notes |
 | 14:45–15:15 | Lab | instructions, notebook or script |
-| 15:15–15:30 | Lecture: Stellar Yields | slides, notes |
+| 15:15–15:30 | Stellar Yields | slides, notes |
 
 ### Break — 15:30–16:00
 
@@ -19,7 +19,7 @@
 
 | Time | Item | Materials |
 |------|------|-----------|
-| 16:00–16:30 | Lecture: Nucleosynthesis in Asymptotic Giant Branch Stars | slides, notes |
+| 16:00–16:30 | Nucleosynthesis in Asymptotic Giant Branch Stars | slides, notes |
 | 16:30–17:10 | Lab | instructions, notebook or script |
 | 17:10–17:30 | Quiz | — |
 
