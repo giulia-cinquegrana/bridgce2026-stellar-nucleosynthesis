@@ -2,16 +2,15 @@
 
 # *Stellar Nucleosynthesis*
 
-## Resources
+## `resources/`
 
-- **`Resources/lectures/`**
+- **`lectures/`**
   - All slides and notes
-- **`Resources/labs/`**
+- **`labs/`**
   - All python scripts and instructions
-- **`Resources/Extra/history.md`**
-  - Big moments and cool papers in stellar physics, nucleosynthesis, and the periodic table.
-- **`Resources/Extra/useful_stellar_resources.md`**
-  - Useful papers on topics we'll cover. Please suggest your own if they're not on the list.
+- **`extra/`**
+  - `history.md`: big moments in stellar physics, nucleosynthesis, and the periodic table.
+  - `useful_stellar_resources.md`: papers on topics we'll cover, suggest your own if they're not on the list.
 
 ## Structure
 
