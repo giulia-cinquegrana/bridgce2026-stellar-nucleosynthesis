@@ -1,6 +1,6 @@
 ![](.thbridgce.png)
 
-# *Stellar Nucleosynthesis* at the 2026 BRIDGCE School
+# *Stellar Nucleosynthesis*
 
 ## Structure
 
