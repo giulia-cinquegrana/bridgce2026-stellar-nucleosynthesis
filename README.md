@@ -2,7 +2,7 @@
 
 # *Stellar Nucleosynthesis*
 
-## `resources/`
+## Resources
 
 - **`lectures/`**
   - All slides and notes
