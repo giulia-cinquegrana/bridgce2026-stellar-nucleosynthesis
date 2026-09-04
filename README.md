@@ -2,6 +2,17 @@
 
 # *Stellar Nucleosynthesis*
 
+## Resources
+
+- **`Resources/lectures/`**
+  - All slides and notes
+- **`Resources/labs/`**
+  - All python scripts and instructions
+- **`Resources/Extra/history.md`**
+  - Big moments and cool papers in stellar physics, nucleosynthesis, and the periodic table.
+- **`Resources/Extra/useful_stellar_resources.md`**
+  - Useful papers on topics we'll cover. Please suggest your own if they're not on the list.
+
 ## Structure
 
 ### Session 1 — 14:00–15:30
@@ -22,14 +33,3 @@
 | **16:00–16:30** | Nucleosynthesis in Asymptotic Giant Branch Stars | slides, notes |
 | **16:30–17:10** | Lab | instructions, notebook (or) script |
 | **17:10–17:30** | Quiz | slides |
-
-## Resources
-
-- **`Resources/lectures/`**
-  - All slides and notes
-- **`Resources/labs/`**
-  - All python scripts and instructions
-- **`Resources/Extra/history.md`**
-  - Big moments and cool papers in stellar physics, nucleosynthesis, and the periodic table.
-- **`Resources/Extra/useful_stellar_resources.md`**
-  - Useful papers on topics we'll cover. Please suggest your own if they're not on the list.
