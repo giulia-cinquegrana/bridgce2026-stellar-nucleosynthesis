@@ -1,27 +1,28 @@
-![](.bridgce.png)
+![](.thbridgce.png)
 
 # *Stellar Nucleosynthesis* lecture & lab materials 
 
+> Participating in the 2026 School? Tell me what you thought of this session<link>.
+
 ## Structure
 
-XXXXX introduce. 
-
-- **14:00–14:05** — Introduction & context
-- **14:05–14:20** — Lecture 1
-- **14:20–14:35** — Lab 1
-- **14:35–14:40** — Transition / setup
-- **14:40–14:55** — Lecture 2
-- **14:55–15:05** — Break
-- **15:05–15:20** — Lecture 3
-- **15:20–15:45** — Lab 2
-- **15:45–16:00** — Wrap-up & discussion
+- **14:00–15:30** — Session 1
+    - **14:00–14:15** - Introduction & Context
+    - **14:15–14:45** - The Nucleosynthesis Landscape
+    - **14:45–15:15** - Lab 1
+    - **15:15–15:30** - Stellar Yields
+- **15:30–16:00** — Break
+- **16:00–17:30** — Session 2
+    - **16:00–16:30** - Lecture. Nucleosynthesis in Asymptotic Giant Branch Stars
+    - **16:30–17:10** - Lab 2
+    - **17:10–17:30** - Quiz
 
 ## Optional pre-reading
 
 - **`Resources/history.md`**
   - Some big moments and cool papers in stellar physics, nucleosynthesis, and the periodic table.
 - **`Resources/useful_stellar_resources.md`**
-  - A compilation of useful papers on topics we'll cover. Please suggest your own if they're not on the list!
+  - A compilation of useful papers on topics we'll cover. Please suggest your own if they're not on the list.
 
 ## Lectures
 
