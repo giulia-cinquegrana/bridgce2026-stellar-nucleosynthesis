@@ -2,27 +2,33 @@
 
 # *Stellar Nucleosynthesis* lecture & lab materials 
 
-> Participating in the 2026 School? Tell me what you thought of this session<link>.
-
 ## Structure
 
-- **14:00–15:30** — Session 1
-    - **14:00–14:15** - Introduction & Context
-    - **14:15–14:45** - The Nucleosynthesis Landscape
-    - **14:45–15:15** - Lab 1
-    - **15:15–15:30** - Stellar Yields
-- **15:30–16:00** — Break
-- **16:00–17:30** — Session 2
-    - **16:00–16:30** - Lecture. Nucleosynthesis in Asymptotic Giant Branch Stars
-    - **16:30–17:10** - Lab 2
-    - **17:10–17:30** - Quiz
+### Session 1 — 14:00–15:30
 
-## Optional pre-reading
+| Time | Item | Materials |
+|------|------|-----------|
+| 14:00–14:15 | Introduction & Context | — |
+| 14:15–14:45 | Lecture: The Nucleosynthesis Landscape | slides, notes |
+| 14:45–15:15 | Lab | instructions, notebook or script |
+| 15:15–15:30 | Lecture: Stellar Yields | slides, notes |
+
+### Break — 15:30–16:00
+
+### Session 2 — 16:00–17:30
+
+| Time | Item | Materials |
+|------|------|-----------|
+| 16:00–16:30 | Lecture: Nucleosynthesis in Asymptotic Giant Branch Stars | slides, notes |
+| 16:30–17:10 | Lab | instructions, notebook or script |
+| 17:10–17:30 | Quiz | — |
+
+## Resources
 
 - **`Resources/history.md`**
-  - Some big moments and cool papers in stellar physics, nucleosynthesis, and the periodic table.
+  - Big moments and cool papers in stellar physics, nucleosynthesis, and the periodic table.
 - **`Resources/useful_stellar_resources.md`**
-  - A compilation of useful papers on topics we'll cover. Please suggest your own if they're not on the list.
+  - Useful papers on topics we'll cover. Please suggest your own if they're not on the list.
 
 ## Lectures
 
@@ -35,8 +41,6 @@ So, **why should you care?**
 * **For everyone:** understand where the uncertainties in stellar yields actually come from.
 
 ### The nucleosynthesis landscape
-
-We'll first take a very brief tour of the major nucleosynthesis processes, from hydrogen burning in low- and intermediate-mass stars through the advanced burning stages and photodisintegration in massive stars, before moving to heavy-element production through neutron capture and photodisintegration. We'll then look at the major sites where these processes occur, distinguishing between hydrostatic nucleosynthesis in AGB and massive stars and explosive nucleosynthesis in core-collapse supernovae, thermonuclear supernovae, and compact-object mergers. There are many more specialised processes and sites that we won't cover here, but these are the key pieces needed for the rest of the lecture.
 
 - Slides: X. 
 - Notes: *.md file. 
