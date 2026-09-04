@@ -4,14 +4,14 @@
 
 ## Structure
 
-### Session 1 — 14:00–15:30
+<h3>Session 1 — 14:00–15:30</h3>
 
-<table width="100%">
+<table style="width:100%">
 <thead>
 <tr>
-<th>Time</th>
-<th>Item</th>
-<th>Materials</th>
+<th style="width:20%">Time</th>
+<th style="width:50%">Item</th>
+<th style="width:30%">Materials</th>
 </tr>
 </thead>
 <tbody>
@@ -38,16 +38,16 @@
 </tbody>
 </table>
 
-### Break — 15:30–16:00
+<h3>Break — 15:30–16:00</h3>
 
-### Session 2 — 16:00–17:30
+<h3>Session 2 — 16:00–17:30</h3>
 
-<table width="100%">
+<table style="width:100%">
 <thead>
 <tr>
-<th>Time</th>
-<th>Item</th>
-<th>Materials</th>
+<th style="width:20%">Time</th>
+<th style="width:50%">Item</th>
+<th style="width:30%">Materials</th>
 </tr>
 </thead>
 <tbody>
