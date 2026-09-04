@@ -6,22 +6,68 @@
 
 ### Session 1 — 14:00–15:30
 
-| Time | Item | Materials |
-|------|------|-----------|
-| 14:00–14:15 | Introduction & Context | — |
-| 14:15–14:45 | The Nucleosynthesis Landscape | slides, notes |
-| 14:45–15:15 | Lab | instructions, notebook or script |
-| 15:15–15:30 | Stellar Yields | slides, notes |
+<table width="100%">
+<thead>
+<tr>
+<th>Time</th>
+<th>Item</th>
+<th>Materials</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>14:00–14:15</td>
+<td>Introduction &amp; Context</td>
+<td>—</td>
+</tr>
+<tr>
+<td>14:15–14:45</td>
+<td>The Nucleosynthesis Landscape</td>
+<td>slides, notes</td>
+</tr>
+<tr>
+<td>14:45–15:15</td>
+<td>Lab</td>
+<td>instructions, notebook (or) script</td>
+</tr>
+<tr>
+<td>15:15–15:30</td>
+<td>Stellar Yields</td>
+<td>slides, notes</td>
+</tr>
+</tbody>
+</table>
 
 ### Break — 15:30–16:00
 
 ### Session 2 — 16:00–17:30
 
-| Time | Item | Materials |
-|------|------|-----------|
-| 16:00–16:30 | Nucleosynthesis in Asymptotic Giant Branch Stars | slides, notes |
-| 16:30–17:10 | Lab | instructions, notebook or script |
-| 17:10–17:30 | Quiz | — |
+<table width="100%">
+<thead>
+<tr>
+<th>Time</th>
+<th>Item</th>
+<th>Materials</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>16:00–16:30</td>
+<td>Nucleosynthesis in Asymptotic Giant Branch Stars</td>
+<td>slides, notes</td>
+</tr>
+<tr>
+<td>16:30–17:10</td>
+<td>Lab</td>
+<td>instructions, notebook (or) script</td>
+</tr>
+<tr>
+<td>17:10–17:30</td>
+<td>Quiz</td>
+<td>—</td>
+</tr>
+</tbody>
+</table>
 
 ## Resources
 
