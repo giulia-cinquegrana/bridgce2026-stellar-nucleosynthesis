@@ -1,6 +1,6 @@
 ![](.bridgce_stellar.png)
 
-# *Stellar Nucleosynthesis*
+# Stellar Nucleosynthesis Lecture & Lab Materials
 
 ## Structure
 
