@@ -1,4 +1,4 @@
-![](.thbridgce.png)
+![](.bridgce_stellar.png)
 
 # *Stellar Nucleosynthesis*
 
